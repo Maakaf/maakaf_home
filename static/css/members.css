@@ -189,6 +189,14 @@ html.dark .sortable.sort-desc .sort-indicator::after {
 }
 
 /* ========================
+   Rating Column Styling
+========================= */
+.rating {
+  text-align: center;
+  font-size: 1.1em;
+}
+
+/* ========================
    How to Add Profile Styling
 ========================= */
 .how-to-add-profile summary {
