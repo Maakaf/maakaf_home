@@ -68,6 +68,7 @@ labels:
   # Table Headers
   tableHeaders:
     user: 'User'
+    rating: 'Rating'
     commits: 'Commits'
     pullRequests: 'PRs'
     issues: 'Issues'
