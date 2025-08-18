@@ -91,18 +91,21 @@
               {{ .Params.labels.tableHeaders.user | default "User" }} <span class="sort-indicator"></span>
             </th>
             <th class="sortable" data-column="1" data-type="number">
-              {{ .Params.labels.tableHeaders.commits | default "Commits" }} <span class="sort-indicator"></span>
+              {{ .Params.labels.tableHeaders.rating | default "Rating" }} <span class="sort-indicator"></span>
             </th>
             <th class="sortable" data-column="2" data-type="number">
-              {{ .Params.labels.tableHeaders.pullRequests | default "PRs" }} <span class="sort-indicator"></span>
+              {{ .Params.labels.tableHeaders.commits | default "Commits" }} <span class="sort-indicator"></span>
             </th>
             <th class="sortable" data-column="3" data-type="number">
-              {{ .Params.labels.tableHeaders.issues | default "Issues" }} <span class="sort-indicator"></span>
+              {{ .Params.labels.tableHeaders.pullRequests | default "PRs" }} <span class="sort-indicator"></span>
             </th>
             <th class="sortable" data-column="4" data-type="number">
-              {{ .Params.labels.tableHeaders.prComments | default "PR Comments" }} <span class="sort-indicator"></span>
+              {{ .Params.labels.tableHeaders.issues | default "Issues" }} <span class="sort-indicator"></span>
             </th>
             <th class="sortable" data-column="5" data-type="number">
+              {{ .Params.labels.tableHeaders.prComments | default "PR Comments" }} <span class="sort-indicator"></span>
+            </th>
+            <th class="sortable" data-column="6" data-type="number">
               {{ .Params.labels.tableHeaders.issueComments | default "Issue Comments" }} <span class="sort-indicator"></span>
             </th>
             <th>{{ .Params.labels.tableHeaders.projects | default "Projects" }}</th>
@@ -110,6 +113,7 @@
         </thead>
         <tbody>
           {{ range .Site.Data.github_data.users }}
+            {{ $rating := add (mul .summary.totalCommits 3) (mul .summary.totalPRs 5) (mul .summary.totalIssues 2) (mul .summary.totalPRComments 1) (mul .summary.totalIssueComments 1) }}
             <tr>
               <td>
                 <div class="username-cell d-flex align-items-center gap-2">
@@ -133,6 +137,9 @@
                     {{ end }}
                   </div>
                 </div>
+              </td>
+              <td class="Rating-rating">
+                <span class="fw-bold text-primary">{{ $rating }}</span>
               </td>
               <td>{{ .summary.totalCommits }}</td>
               <td>{{ .summary.totalPRs }}</td>
@@ -188,6 +195,13 @@
         sortTable(column, type, this);
       });
     });
+    
+    // Apply default sort by Rating rating from max to min
+    const ratingHeader = document.querySelector('[data-column="1"]');
+    if (ratingHeader) {
+      sortTable('1', 'number', ratingHeader); // min
+      sortTable('1', 'number', ratingHeader); // max
+    }
   });
 
   function sortTable(column, type, headerElement) {
@@ -212,23 +226,14 @@
       let valueA, valueB;
       
       if (type === 'text') {
-        // For user column, get the display name
         valueA = a.cells[column].querySelector('strong').textContent.trim().toLowerCase();
         valueB = b.cells[column].querySelector('strong').textContent.trim().toLowerCase();
+        return direction === 'desc' ? valueB.localeCompare(valueA) : valueA.localeCompare(valueB);
       } else {
-        // For numeric columns
         valueA = parseInt(a.cells[column].textContent.trim()) || 0;
         valueB = parseInt(b.cells[column].textContent.trim()) || 0;
+        return direction === 'desc' ? valueB - valueA : valueA - valueB;
       }
-      
-      let comparison = 0;
-      if (type === 'text') {
-        comparison = valueA.localeCompare(valueB);
-      } else {
-        comparison = valueA - valueB;
-      }
-      
-      return direction === 'desc' ? -comparison : comparison;
     });
     
     // Update current sort state
