@@ -37,7 +37,7 @@
     "update:pkgs": "npx npm-check-updates -u"
   },
   "devDependencies": {
-    "@types/node": "^24.0.10",
+    "@types/node": "^25.0.0",
     "autoprefixer": "^10.4.21",
     "cross-env": "^10.0.0",
     "hugo-extended": "0.152.2",
