@@ -1,0 +1,39 @@
+{{/* Figma home mentorship: node 491:21388 */ -}}
+{{ $mentorshipURL := "/mentorship/" | relLangURL -}}
+{{ $isHebrew := eq .Site.Language.Lang "he" -}}
+
+<section class="maakaf-home-mentorship" aria-label="{{ if $isHebrew }}מנטורינג{{ else }}Mentoring{{ end }}">
+  <div class="maakaf-home-mentorship__inner">
+    <div class="maakaf-home-mentorship__content" dir="rtl">
+      <div class="maakaf-home-mentorship__copy">
+        <h2 class="maakaf-home-mentorship__title">
+          {{ if $isHebrew }}התחברו למנטורים שלנו{{ else }}Connect with our mentors{{ end }}
+        </h2>
+        <div class="maakaf-home-mentorship__body">
+          {{ if $isHebrew }}
+            <p>הקהילה שלנו כוללת מפתחים ומפתחות מנוסים שמשתפים ידע ומלווים חברי קהילה חדשים.</p>
+            <p>בין אם אתם מתחילים את הדרך או מחפשים לצמוח בכיוון חדש - יש מי שילווה אתכם!</p>
+          {{ else }}
+            <p>Our community includes experienced developers who share knowledge and guide new members.</p>
+            <p>Whether you're just starting out or looking to grow in a new direction — someone is here to guide you.</p>
+          {{ end }}
+        </div>
+      </div>
+      <a class="maakaf-home-mentorship__btn" href="{{ $mentorshipURL }}">
+        <span>{{ if $isHebrew }}מצאו מנטור{{ else }}Find a mentor{{ end }}</span>
+        <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+      </a>
+    </div>
+
+    <div class="maakaf-home-mentorship__media">
+      <img
+        class="maakaf-home-mentorship__image"
+        src="/images/mentoring-image.png"
+        alt="{{ if $isHebrew }}מנטור ומנטי לומדים יחד{{ else }}Mentor and mentee learning together{{ end }}"
+        width="3142"
+        height="1344"
+        loading="lazy"
+      >
+    </div>
+  </div>
+</section>
