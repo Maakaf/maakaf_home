@@ -64,14 +64,6 @@ export function showBlockingMessage(message) {
 }
 
 export function showToast(message, then) {
-  const backdrop = document.createElement('div');
-  backdrop.style.cssText = `
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.4);
-    z-index: 9998;
-  `;
-
   const el = document.createElement('div');
   el.dir = 'rtl';
   el.style.cssText = `
@@ -82,6 +74,7 @@ export function showToast(message, then) {
     z-index: 9999;
     min-width: 280px;
     max-width: 90vw;
+    pointer-events: auto;
   `;
   const alert = document.createElement('div');
   alert.className = 'alert alert-success shadow mb-0 d-flex align-items-center gap-3';
@@ -98,14 +91,13 @@ export function showToast(message, then) {
   alert.append(span, btn);
   el.appendChild(alert);
 
-  document.body.appendChild(backdrop);
   document.body.appendChild(el);
 
   function dismiss() {
-    backdrop.remove();
     el.remove();
     then();
   }
 
   btn.addEventListener('click', dismiss);
+  setTimeout(dismiss, 4000);
 }
