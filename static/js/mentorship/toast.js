@@ -108,4 +108,5 @@ export function showToast(message, then) {
   }
 
   btn.addEventListener('click', dismiss);
+  setTimeout(dismiss, 4000);
 }
