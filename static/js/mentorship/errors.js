@@ -26,6 +26,7 @@ const AUTH_ERROR_MESSAGES = {
 
   // email verification
   EMAIL_NOT_VERIFIED: 'יש לאמת את כתובת האימייל לפני ההתחברות. בדוק/י את תיבת הדואר שלך.',
+  LOGIN_CODE_REQUIRED: 'יש להזין קוד אימות שנשלח לכתובת האימייל שלך.',
 
   // OTP verification errors
   INVALID_CODE: 'הקוד שגוי. נסה/י שוב.',

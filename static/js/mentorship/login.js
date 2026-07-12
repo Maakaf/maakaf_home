@@ -29,7 +29,6 @@ const resetSubmitBtn    = document.getElementById('reset-submit-btn');
 const resetResendBtn    = document.getElementById('reset-resend-btn');
 const resetResendCountdown = document.getElementById('reset-resend-countdown');
 
-let resetUid = null;
 let resetEmail = null;
 let resetResendTimer = null;
 
@@ -51,9 +50,8 @@ function showForgotForm() {
   document.getElementById('forgot-email-input').focus();
 }
 
-function showResetCard(email, uid) {
+function showResetCard(email) {
   resetEmail = email;
-  resetUid   = uid;
   resetEmailDisplay.textContent = email;
   forgotWrapper.classList.add('d-none');
   resetWrapper.classList.remove('d-none');
@@ -117,15 +115,14 @@ forgotForm.addEventListener('submit', async (e) => {
     return;
   }
 
-  showResetCard(email, data.uid);
+  showResetCard(email);
 });
 
 // Resend reset code
 resetResendBtn.addEventListener('click', async () => {
   if (!resetEmail) return;
   resetResendBtn.disabled = true;
-  const { ok, data } = await apiFetch('/auth/forgot-password', { method: 'POST', body: { email: resetEmail } });
-  if (ok) resetUid = data.uid;
+  await apiFetch('/auth/forgot-password', { method: 'POST', body: { email: resetEmail } });
   resetCodeInput.value = '';
   startResetResendCountdown();
 });
@@ -158,7 +155,7 @@ resetSubmitBtn.addEventListener('click', async () => {
 
   const { ok, data } = await apiFetch('/auth/reset-password', {
     method: 'POST',
-    body: { uid: resetUid, code, newPassword },
+    body: { email: resetEmail, code, newPassword },
   });
 
   if (ok) {
@@ -181,16 +178,18 @@ resetCodeInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') reset
 let verifyResendTimer = null;
 let verifyCredentials = null;
 let verifyUid = null;
+let verifyFlow = 'register'; // 'register' | 'login-2fa'
 
 const verifyCodeInput    = document.getElementById('verify-code-input');
 const verifyCodeError    = document.getElementById('verify-code-error');
 const verifySubmitBtn    = document.getElementById('verify-submit-btn');
 
-function showVerifyEmailScreen(email, credentials, uid) {
+function showVerifyEmailScreen(email, credentials, uid, flow = 'register') {
   wrapper.classList.add('d-none');
   verifyEmailDisplay.textContent = email;
   verifyCredentials = credentials;
   verifyUid = uid;
+  verifyFlow = flow;
   verifyWrapper.classList.remove('d-none');
   verifyCodeInput?.focus();
   startVerifyResendCountdown();
@@ -225,7 +224,8 @@ verifySubmitBtn.addEventListener('click', async () => {
   verifySubmitBtn.disabled = true;
   verifySubmitBtn.textContent = 'מאמת...';
 
-  const { ok, data } = await apiFetch('/auth/verify-code', {
+  const endpoint = verifyFlow === 'login-2fa' ? '/auth/login/verify-code' : '/auth/verify-code';
+  const { ok, data } = await apiFetch(endpoint, {
     method: 'POST',
     body: {
       uid: verifyUid,
@@ -237,8 +237,9 @@ verifySubmitBtn.addEventListener('click', async () => {
 
   if (ok) {
     if (verifyCredentials) { verifyCredentials.email = ''; verifyCredentials.password = ''; }
+    const successMsg = verifyFlow === 'login-2fa' ? 'ההתחברות אושרה בהצלחה!' : 'האימות הושלם בהצלחה!';
     saveSession(data);
-    showToast('האימות הושלם בהצלחה!', () => {
+    showToast(successMsg, () => {
       window.location.href = dashboardUrl(data.role);
     });
   } else {
@@ -257,7 +258,9 @@ verifyCodeInput.addEventListener('keydown', (e) => {
 verifyResendBtn.addEventListener('click', async () => {
   const email = verifyEmailDisplay.textContent;
   verifyResendBtn.disabled = true;
-  const { ok } = await apiFetch('/auth/resend-verification', { method: 'POST', body: { email } });
+  const endpoint = verifyFlow === 'login-2fa' ? '/auth/login/resend-code' : '/auth/resend-verification';
+  const body = verifyFlow === 'login-2fa' ? { uid: verifyUid, email } : { email };
+  const { ok } = await apiFetch(endpoint, { method: 'POST', body });
   if (!ok) {
     verifyCodeError.textContent = 'שגיאה בשליחת קוד חדש. נסה/י שוב.';
     verifyCodeError.classList.remove('d-none');
@@ -274,6 +277,7 @@ document.getElementById('back-to-login-from-verify').addEventListener('click', (
   clearInterval(verifyResendTimer);
   verifyCredentials = null;
   verifyUid = null;
+  verifyFlow = 'register';
   wrapper.classList.remove('d-none');
 });
 
@@ -294,7 +298,9 @@ async function handleLoginSubmit(event) {
 
     if (!ok) {
       if (data.error?.code === 'EMAIL_NOT_VERIFIED') {
-        showVerifyEmailScreen(email, { email, password }, data.uid);
+        showVerifyEmailScreen(email, { email, password }, data.uid, 'register');
+      } else if (data.error?.code === 'LOGIN_CODE_REQUIRED') {
+        showVerifyEmailScreen(email, { email, password }, data.uid, 'login-2fa');
       } else {
         showFormMessage(messageEl, describeAuthError(data.error), true);
       }
