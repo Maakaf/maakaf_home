@@ -47,10 +47,6 @@
       },
       "rollingActivity": [
         {
-          "date": "2026-01-18",
-          "total": 36
-        },
-        {
           "date": "2026-01-19",
           "total": 36
         },
@@ -627,10 +623,6 @@
         "totalIssueComments": 10
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 145
-        },
         {
           "date": "2026-01-20",
           "total": 144
@@ -1346,6 +1338,10 @@
         {
           "date": "2026-07-17",
           "total": 34
+        },
+        {
+          "date": "2026-07-18",
+          "total": 34
         }
       ]
     },
@@ -1413,10 +1409,6 @@
         "totalIssueComments": 7
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 1
-        },
         {
           "date": "2026-01-20",
           "total": 1
@@ -2132,6 +2124,10 @@
         {
           "date": "2026-07-17",
           "total": 28
+        },
+        {
+          "date": "2026-07-18",
+          "total": 28
         }
       ]
     },
@@ -2188,7 +2184,7 @@
           "url": "https://github.com/hey-api/hey-api",
           "primaryLanguage": "TypeScript",
           "primaryLanguageColor": "#3178c6",
-          "stargazerCount": 5113,
+          "stargazerCount": 5118,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -2235,7 +2231,7 @@
           "url": "https://github.com/orval-labs/orval",
           "primaryLanguage": "TypeScript",
           "primaryLanguageColor": "#3178c6",
-          "stargazerCount": 6247,
+          "stargazerCount": 6249,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -2310,10 +2306,6 @@
         "totalIssueComments": 3
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 0
-        },
         {
           "date": "2026-01-20",
           "total": 0
@@ -3029,6 +3021,10 @@
         {
           "date": "2026-07-17",
           "total": 141
+        },
+        {
+          "date": "2026-07-18",
+          "total": 141
         }
       ]
     },
@@ -3042,7 +3038,7 @@
         "company": null,
         "blog": "http://www.AlmogBaku.com",
         "twitterUsername": "AlmogBaku",
-        "publicRepos": 149,
+        "publicRepos": 150,
         "followers": 110,
         "following": 3,
         "accountType": "User",
@@ -3055,7 +3051,7 @@
           "url": "https://github.com/manaflow-ai/cmux",
           "primaryLanguage": "Swift",
           "primaryLanguageColor": "#F05138",
-          "stargazerCount": 24626,
+          "stargazerCount": 24701,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3091,7 +3087,7 @@
           "url": "https://github.com/VoltAgent/awesome-agent-skills",
           "primaryLanguage": null,
           "primaryLanguageColor": null,
-          "stargazerCount": 28252,
+          "stargazerCount": 28311,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3123,7 +3119,7 @@
           "url": "https://github.com/zed-industries/zed",
           "primaryLanguage": "Rust",
           "primaryLanguageColor": "#dea584",
-          "stargazerCount": 87118,
+          "stargazerCount": 87149,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3145,7 +3141,7 @@
           "url": "https://github.com/hesreallyhim/awesome-claude-code",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 50195,
+          "stargazerCount": 50272,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3182,7 +3178,7 @@
           "url": "https://github.com/AlmogBaku/debug-skill",
           "primaryLanguage": "Go",
           "primaryLanguageColor": "#00ADD8",
-          "stargazerCount": 300,
+          "stargazerCount": 301,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [],
@@ -3199,7 +3195,7 @@
           "url": "https://github.com/pydantic/monty",
           "primaryLanguage": "Rust",
           "primaryLanguageColor": "#dea584",
-          "stargazerCount": 7888,
+          "stargazerCount": 7896,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [],
@@ -3216,7 +3212,7 @@
           "url": "https://github.com/Arize-ai/openinference",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 1090,
+          "stargazerCount": 1091,
           "licenseName": "Apache License 2.0",
           "licenseSpdx": "Apache-2.0",
           "topics": [
@@ -3253,7 +3249,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 216061,
+          "stargazerCount": 216518,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3287,7 +3283,7 @@
           "url": "https://github.com/travisvn/awesome-claude-skills",
           "primaryLanguage": null,
           "primaryLanguageColor": null,
-          "stargazerCount": 14151,
+          "stargazerCount": 14166,
           "licenseName": null,
           "licenseSpdx": null,
           "topics": [
@@ -3316,7 +3312,7 @@
           "url": "https://github.com/BerriAI/litellm",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 53819,
+          "stargazerCount": 53893,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3350,7 +3346,7 @@
           "url": "https://github.com/alexballas/go2tv",
           "primaryLanguage": "Go",
           "primaryLanguageColor": "#00ADD8",
-          "stargazerCount": 919,
+          "stargazerCount": 920,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3380,7 +3376,7 @@
           "url": "https://github.com/BehiSecc/awesome-claude-skills",
           "primaryLanguage": null,
           "primaryLanguageColor": null,
-          "stargazerCount": 9793,
+          "stargazerCount": 9800,
           "licenseName": null,
           "licenseSpdx": null,
           "topics": [],
@@ -3397,7 +3393,7 @@
           "url": "https://github.com/ComposioHQ/awesome-claude-skills",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 67905,
+          "stargazerCount": 67993,
           "licenseName": null,
           "licenseSpdx": null,
           "topics": [
@@ -3432,7 +3428,7 @@
           "url": "https://github.com/sickn33/agentic-awesome-skills",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 43428,
+          "stargazerCount": 43502,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3470,7 +3466,7 @@
           "url": "https://github.com/pydantic/pydantic-ai",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 18598,
+          "stargazerCount": 18627,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3493,7 +3489,7 @@
           "url": "https://github.com/astral-sh/uv",
           "primaryLanguage": "Rust",
           "primaryLanguageColor": "#dea584",
-          "stargazerCount": 87568,
+          "stargazerCount": 87601,
           "licenseName": "Apache License 2.0",
           "licenseSpdx": "Apache-2.0",
           "topics": [
@@ -3583,7 +3579,7 @@
           "url": "https://github.com/npm/cli",
           "primaryLanguage": "JavaScript",
           "primaryLanguageColor": "#f1e05a",
-          "stargazerCount": 9950,
+          "stargazerCount": 9951,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3611,10 +3607,6 @@
         "totalIssueComments": 5
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 17
-        },
         {
           "date": "2026-01-20",
           "total": 17
@@ -4330,15 +4322,19 @@
         {
           "date": "2026-07-17",
           "total": 127
+        },
+        {
+          "date": "2026-07-18",
+          "total": 127
         }
       ]
     },
     {
       "user": {
         "username": "ealush",
-        "displayName": "Evyatar",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?u=ee34b8be0eae1d6ae1fff4b137cc5e3ffb1f0789&v=4",
-        "bio": "",
+        "displayName": "Evyatar Alush",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?u=abebaf4615b1b7aff2ab4bdb0654815d77af686c&v=4",
+        "bio": "Software engineer at Meta. Creator of Vest and emoji-picker-react. I make tools for human developers, then talk about the weird parts.",
         "location": "Tel Aviv",
         "company": "@facebook ",
         "blog": "http://ealush.com/",
@@ -4374,8 +4370,8 @@
             "form",
             "hacktoberfest"
           ],
-          "commits": 131,
-          "pullRequests": 69,
+          "commits": 136,
+          "pullRequests": 72,
           "issues": 0,
           "prReviews": 2,
           "prComments": 13,
@@ -4387,7 +4383,7 @@
           "url": "https://github.com/ealush/emoji-picker-react",
           "primaryLanguage": "TypeScript",
           "primaryLanguageColor": "#3178c6",
-          "stargazerCount": 1441,
+          "stargazerCount": 1442,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -4411,18 +4407,14 @@
         }
       ],
       "summary": {
-        "totalCommits": 159,
-        "totalPRs": 78,
+        "totalCommits": 164,
+        "totalPRs": 81,
         "totalIssues": 0,
         "totalPRReviews": 3,
         "totalPRComments": 17,
         "totalIssueComments": 13
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 192
-        },
         {
           "date": "2026-01-20",
           "total": 193
@@ -5137,7 +5129,11 @@
         },
         {
           "date": "2026-07-17",
-          "total": 270
+          "total": 278
+        },
+        {
+          "date": "2026-07-18",
+          "total": 278
         }
       ]
     },
@@ -5204,10 +5200,6 @@
         "totalIssueComments": 0
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 12
-        },
         {
           "date": "2026-01-20",
           "total": 12
@@ -5923,6 +5915,10 @@
         {
           "date": "2026-07-17",
           "total": 7
+        },
+        {
+          "date": "2026-07-18",
+          "total": 7
         }
       ]
     },
@@ -6037,7 +6033,7 @@
           "url": "https://github.com/isl-org/Open3D",
           "primaryLanguage": "C++",
           "primaryLanguageColor": "#f34b7d",
-          "stargazerCount": 13798,
+          "stargazerCount": 13803,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -6122,10 +6118,6 @@
         "totalIssueComments": 28
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 127
-        },
         {
           "date": "2026-01-20",
           "total": 129
@@ -6841,6 +6833,10 @@
         {
           "date": "2026-07-17",
           "total": 86
+        },
+        {
+          "date": "2026-07-18",
+          "total": 86
         }
       ]
     },
@@ -6903,7 +6899,7 @@
           "url": "https://github.com/diffplug/spotless",
           "primaryLanguage": "Java",
           "primaryLanguageColor": "#b07219",
-          "stargazerCount": 5551,
+          "stargazerCount": 5554,
           "licenseName": "Apache License 2.0",
           "licenseSpdx": "Apache-2.0",
           "topics": [
@@ -6939,10 +6935,6 @@
         "totalIssueComments": 1
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 107
-        },
         {
           "date": "2026-01-20",
           "total": 107
@@ -7658,6 +7650,10 @@
         {
           "date": "2026-07-17",
           "total": 12
+        },
+        {
+          "date": "2026-07-18",
+          "total": 12
         }
       ]
     },
@@ -7743,10 +7739,6 @@
         "totalIssueComments": 0
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 5
-        },
         {
           "date": "2026-01-20",
           "total": 5
@@ -8462,6 +8454,10 @@
         {
           "date": "2026-07-17",
           "total": 93
+        },
+        {
+          "date": "2026-07-18",
+          "total": 93
         }
       ]
     },
@@ -8528,10 +8524,6 @@
         "totalIssueComments": 0
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-19",
-          "total": 3
-        },
         {
           "date": "2026-01-20",
           "total": 3
@@ -9247,13 +9239,17 @@
         {
           "date": "2026-07-17",
           "total": 13
+        },
+        {
+          "date": "2026-07-18",
+          "total": 12
         }
       ]
     }
   ],
   "globalSummary": {
-    "totalCommits": 409,
-    "totalPRs": 230,
+    "totalCommits": 414,
+    "totalPRs": 233,
     "totalIssues": 29,
     "totalPRReviews": 6,
     "totalPRComments": 71,
@@ -9262,7 +9258,7 @@
     "successfulUsers": 11,
     "failedUsers": 0,
     "totalUsers": 11,
-    "analysisTimeframe": "2026-01-18 to 2026-07-17",
+    "analysisTimeframe": "2026-01-19 to 2026-07-18",
     "minForkCountFilter": "3"
   },
   "repoLeaderboard": [
@@ -9291,8 +9287,8 @@
         "form",
         "hacktoberfest"
       ],
-      "commits": 131,
-      "pullRequests": 69,
+      "commits": 136,
+      "pullRequests": 72,
       "issues": 0,
       "prReviews": 2,
       "prComments": 13,
@@ -9301,17 +9297,17 @@
       "contributorList": [
         {
           "login": "ealush",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?u=ee34b8be0eae1d6ae1fff4b137cc5e3ffb1f0789&v=4"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?u=abebaf4615b1b7aff2ab4bdb0654815d77af686c&v=4"
         }
       ],
-      "totalActivity": 216
+      "totalActivity": 224
     },
     {
       "repoName": "AlmogBaku/debug-skill",
       "description": null,
       "url": "https://github.com/AlmogBaku/debug-skill",
       "forkCount": 25,
-      "stargazerCount": 300,
+      "stargazerCount": 301,
       "primaryLanguage": "Go",
       "primaryLanguageColor": "#00ADD8",
       "licenseName": "MIT License",
@@ -9371,7 +9367,7 @@
       "description": "The most popular React Emoji Picker",
       "url": "https://github.com/ealush/emoji-picker-react",
       "forkCount": 213,
-      "stargazerCount": 1441,
+      "stargazerCount": 1442,
       "primaryLanguage": "TypeScript",
       "primaryLanguageColor": "#3178c6",
       "licenseName": "MIT License",
@@ -9398,7 +9394,7 @@
       "contributorList": [
         {
           "login": "ealush",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?u=ee34b8be0eae1d6ae1fff4b137cc5e3ffb1f0789&v=4"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?u=abebaf4615b1b7aff2ab4bdb0654815d77af686c&v=4"
         }
       ],
       "totalActivity": 54
@@ -9441,7 +9437,7 @@
       "description": "👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.",
       "url": "https://github.com/hey-api/hey-api",
       "forkCount": 410,
-      "stargazerCount": 5113,
+      "stargazerCount": 5118,
       "primaryLanguage": "TypeScript",
       "primaryLanguageColor": "#3178c6",
       "licenseName": "MIT License",
@@ -9641,8 +9637,8 @@
       "repoName": "orval-labs/orval",
       "description": "orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺",
       "url": "https://github.com/orval-labs/orval",
-      "forkCount": 644,
-      "stargazerCount": 6247,
+      "forkCount": 646,
+      "stargazerCount": 6249,
       "primaryLanguage": "TypeScript",
       "primaryLanguageColor": "#3178c6",
       "licenseName": "MIT License",
@@ -9681,7 +9677,7 @@
       "description": "Open3D: A Modern Library for 3D Data Processing",
       "url": "https://github.com/isl-org/Open3D",
       "forkCount": 2590,
-      "stargazerCount": 13798,
+      "stargazerCount": 13803,
       "primaryLanguage": "C++",
       "primaryLanguageColor": "#f34b7d",
       "licenseName": "Other",
@@ -9905,8 +9901,8 @@
       "repoName": "BehiSecc/awesome-claude-skills",
       "description": "A curated list of Claude Skills.",
       "url": "https://github.com/BehiSecc/awesome-claude-skills",
-      "forkCount": 1335,
-      "stargazerCount": 9793,
+      "forkCount": 1339,
+      "stargazerCount": 9800,
       "primaryLanguage": null,
       "primaryLanguageColor": null,
       "licenseName": null,
@@ -9958,7 +9954,7 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
       "forkCount": 388,
-      "stargazerCount": 7888,
+      "stargazerCount": 7896,
       "primaryLanguage": "Rust",
       "primaryLanguageColor": "#dea584",
       "licenseName": "MIT License",
@@ -9983,8 +9979,8 @@
       "repoName": "sickn33/agentic-awesome-skills",
       "description": "Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
       "url": "https://github.com/sickn33/agentic-awesome-skills",
-      "forkCount": 6479,
-      "stargazerCount": 43428,
+      "forkCount": 6473,
+      "stargazerCount": 43502,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "MIT License",
@@ -10031,7 +10027,7 @@
       "description": "Cast media files to Smart TVs and Chromecast devices.",
       "url": "https://github.com/alexballas/go2tv",
       "forkCount": 70,
-      "stargazerCount": 919,
+      "stargazerCount": 920,
       "primaryLanguage": "Go",
       "primaryLanguageColor": "#00ADD8",
       "licenseName": "MIT License",
@@ -10069,8 +10065,8 @@
       "repoName": "BerriAI/litellm",
       "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
       "url": "https://github.com/BerriAI/litellm",
-      "forkCount": 9834,
-      "stargazerCount": 53819,
+      "forkCount": 9858,
+      "stargazerCount": 53893,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "Other",
@@ -10112,8 +10108,8 @@
       "repoName": "travisvn/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
       "url": "https://github.com/travisvn/awesome-claude-skills",
-      "forkCount": 1710,
-      "stargazerCount": 14151,
+      "forkCount": 1717,
+      "stargazerCount": 14166,
       "primaryLanguage": null,
       "primaryLanguageColor": null,
       "licenseName": null,
@@ -10151,7 +10147,7 @@
       "description": "Keep your code spotless",
       "url": "https://github.com/diffplug/spotless",
       "forkCount": 540,
-      "stargazerCount": 5551,
+      "stargazerCount": 5554,
       "primaryLanguage": "Java",
       "primaryLanguageColor": "#b07219",
       "licenseName": "Apache License 2.0",
@@ -10191,8 +10187,8 @@
       "repoName": "pydantic/pydantic-ai",
       "description": "AI Agent Framework, the Pydantic way",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "forkCount": 2375,
-      "stargazerCount": 18598,
+      "forkCount": 2381,
+      "stargazerCount": 18627,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "MIT License",
@@ -10223,8 +10219,8 @@
       "repoName": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "forkCount": 40383,
-      "stargazerCount": 216061,
+      "forkCount": 40580,
+      "stargazerCount": 216518,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "MIT License",
@@ -10266,7 +10262,7 @@
       "repoName": "webfuse-com/awesome-claude",
       "description": "A curated list of awesome things related to Anthropic Claude",
       "url": "https://github.com/webfuse-com/awesome-claude",
-      "forkCount": 348,
+      "forkCount": 349,
       "stargazerCount": 1579,
       "primaryLanguage": "TypeScript",
       "primaryLanguageColor": "#3178c6",
@@ -10307,8 +10303,8 @@
       "repoName": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "forkCount": 7682,
-      "stargazerCount": 67905,
+      "forkCount": 7703,
+      "stargazerCount": 67993,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": null,
@@ -10351,8 +10347,8 @@
       "repoName": "VoltAgent/awesome-agent-skills",
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "forkCount": 3033,
-      "stargazerCount": 28252,
+      "forkCount": 3051,
+      "stargazerCount": 28311,
       "primaryLanguage": null,
       "primaryLanguageColor": null,
       "licenseName": "MIT License",
@@ -10392,8 +10388,8 @@
       "repoName": "manaflow-ai/cmux",
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "url": "https://github.com/manaflow-ai/cmux",
-      "forkCount": 2008,
-      "stargazerCount": 24626,
+      "forkCount": 2013,
+      "stargazerCount": 24701,
       "primaryLanguage": "Swift",
       "primaryLanguageColor": "#F05138",
       "licenseName": "Other",
@@ -10463,8 +10459,8 @@
       "repoName": "npm/cli",
       "description": "the package manager for JavaScript",
       "url": "https://github.com/npm/cli",
-      "forkCount": 4511,
-      "stargazerCount": 9950,
+      "forkCount": 4517,
+      "stargazerCount": 9951,
       "primaryLanguage": "JavaScript",
       "primaryLanguageColor": "#f1e05a",
       "licenseName": "Other",
@@ -10529,8 +10525,8 @@
       "repoName": "zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "url": "https://github.com/zed-industries/zed",
-      "forkCount": 9556,
-      "stargazerCount": 87118,
+      "forkCount": 9577,
+      "stargazerCount": 87149,
       "primaryLanguage": "Rust",
       "primaryLanguageColor": "#dea584",
       "licenseName": "Other",
@@ -10605,8 +10601,8 @@
       "repoName": "astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "url": "https://github.com/astral-sh/uv",
-      "forkCount": 3335,
-      "stargazerCount": 87568,
+      "forkCount": 3344,
+      "stargazerCount": 87601,
       "primaryLanguage": "Rust",
       "primaryLanguageColor": "#dea584",
       "licenseName": "Apache License 2.0",
@@ -10636,8 +10632,8 @@
       "repoName": "Arize-ai/openinference",
       "description": "OpenTelemetry Instrumentation for AI Observability",
       "url": "https://github.com/Arize-ai/openinference",
-      "forkCount": 274,
-      "stargazerCount": 1090,
+      "forkCount": 273,
+      "stargazerCount": 1091,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "Apache License 2.0",
@@ -10682,8 +10678,8 @@
       "repoName": "hesreallyhim/awesome-claude-code",
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "forkCount": 4370,
-      "stargazerCount": 50195,
+      "forkCount": 4375,
+      "stargazerCount": 50272,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "Other",
@@ -10727,12 +10723,8 @@
   ],
   "communityRolling": [
     {
-      "date": "2026-01-18",
-      "total": 36
-    },
-    {
       "date": "2026-01-19",
-      "total": 645
+      "total": 36
     },
     {
       "date": "2026-01-20",
@@ -11448,7 +11440,11 @@
     },
     {
       "date": "2026-07-17",
-      "total": 811
+      "total": 819
+    },
+    {
+      "date": "2026-07-18",
+      "total": 818
     }
   ],
   "excludedUsers": []
