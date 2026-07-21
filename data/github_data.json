@@ -2,1319 +2,6 @@
   "users": [
     {
       "user": {
-        "username": "ShacharES",
-        "displayName": "Shachar Even Shoshan",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/182784923?u=de3bc3a419dd3bde27b58ff372991b9e9ba7ca9f&v=4",
-        "bio": "💻 Code, ☁️ Cloud, 🚀 Scaling systems | C++ & Go",
-        "location": null,
-        "company": null,
-        "blog": null,
-        "twitterUsername": null,
-        "publicRepos": 12,
-        "followers": 0,
-        "following": 3,
-        "accountType": "User",
-        "createdAt": "2024-09-25T14:26:25.000Z"
-      },
-      "repos": [
-        {
-          "repoName": "Maakaf/maakaf_home",
-          "description": "Website for Ma'akaf - Israeli Open Source Community",
-          "url": "https://github.com/Maakaf/maakaf_home",
-          "primaryLanguage": "JavaScript",
-          "primaryLanguageColor": "#f1e05a",
-          "stargazerCount": 5,
-          "licenseName": "Apache License 2.0",
-          "licenseSpdx": "Apache-2.0",
-          "topics": [
-            "hacktoberfest"
-          ],
-          "commits": 0,
-          "pullRequests": 1,
-          "issues": 0,
-          "prReviews": 0,
-          "prComments": 0,
-          "issueComments": 0
-        }
-      ],
-      "summary": {
-        "totalCommits": 0,
-        "totalPRs": 1,
-        "totalIssues": 0,
-        "totalPRReviews": 0,
-        "totalPRComments": 0,
-        "totalIssueComments": 0
-      },
-      "rollingActivity": [
-        {
-          "date": "2026-01-21",
-          "total": 36
-        },
-        {
-          "date": "2026-01-22",
-          "total": 36
-        },
-        {
-          "date": "2026-01-23",
-          "total": 35
-        },
-        {
-          "date": "2026-01-24",
-          "total": 35
-        },
-        {
-          "date": "2026-01-25",
-          "total": 35
-        },
-        {
-          "date": "2026-01-26",
-          "total": 35
-        },
-        {
-          "date": "2026-01-27",
-          "total": 35
-        },
-        {
-          "date": "2026-01-28",
-          "total": 35
-        },
-        {
-          "date": "2026-01-29",
-          "total": 35
-        },
-        {
-          "date": "2026-01-30",
-          "total": 35
-        },
-        {
-          "date": "2026-01-31",
-          "total": 35
-        },
-        {
-          "date": "2026-02-01",
-          "total": 35
-        },
-        {
-          "date": "2026-02-02",
-          "total": 35
-        },
-        {
-          "date": "2026-02-03",
-          "total": 35
-        },
-        {
-          "date": "2026-02-04",
-          "total": 35
-        },
-        {
-          "date": "2026-02-05",
-          "total": 35
-        },
-        {
-          "date": "2026-02-06",
-          "total": 35
-        },
-        {
-          "date": "2026-02-07",
-          "total": 35
-        },
-        {
-          "date": "2026-02-08",
-          "total": 35
-        },
-        {
-          "date": "2026-02-09",
-          "total": 35
-        },
-        {
-          "date": "2026-02-10",
-          "total": 35
-        },
-        {
-          "date": "2026-02-11",
-          "total": 35
-        },
-        {
-          "date": "2026-02-12",
-          "total": 35
-        },
-        {
-          "date": "2026-02-13",
-          "total": 35
-        },
-        {
-          "date": "2026-02-14",
-          "total": 34
-        },
-        {
-          "date": "2026-02-15",
-          "total": 34
-        },
-        {
-          "date": "2026-02-16",
-          "total": 34
-        },
-        {
-          "date": "2026-02-17",
-          "total": 34
-        },
-        {
-          "date": "2026-02-18",
-          "total": 34
-        },
-        {
-          "date": "2026-02-19",
-          "total": 34
-        },
-        {
-          "date": "2026-02-20",
-          "total": 34
-        },
-        {
-          "date": "2026-02-21",
-          "total": 34
-        },
-        {
-          "date": "2026-02-22",
-          "total": 34
-        },
-        {
-          "date": "2026-02-23",
-          "total": 34
-        },
-        {
-          "date": "2026-02-24",
-          "total": 34
-        },
-        {
-          "date": "2026-02-25",
-          "total": 34
-        },
-        {
-          "date": "2026-02-26",
-          "total": 34
-        },
-        {
-          "date": "2026-02-27",
-          "total": 34
-        },
-        {
-          "date": "2026-02-28",
-          "total": 34
-        },
-        {
-          "date": "2026-03-01",
-          "total": 34
-        },
-        {
-          "date": "2026-03-02",
-          "total": 34
-        },
-        {
-          "date": "2026-03-03",
-          "total": 34
-        },
-        {
-          "date": "2026-03-04",
-          "total": 34
-        },
-        {
-          "date": "2026-03-05",
-          "total": 34
-        },
-        {
-          "date": "2026-03-06",
-          "total": 34
-        },
-        {
-          "date": "2026-03-07",
-          "total": 34
-        },
-        {
-          "date": "2026-03-08",
-          "total": 34
-        },
-        {
-          "date": "2026-03-09",
-          "total": 34
-        },
-        {
-          "date": "2026-03-10",
-          "total": 34
-        },
-        {
-          "date": "2026-03-11",
-          "total": 34
-        },
-        {
-          "date": "2026-03-12",
-          "total": 34
-        },
-        {
-          "date": "2026-03-13",
-          "total": 34
-        },
-        {
-          "date": "2026-03-14",
-          "total": 34
-        },
-        {
-          "date": "2026-03-15",
-          "total": 34
-        },
-        {
-          "date": "2026-03-16",
-          "total": 34
-        },
-        {
-          "date": "2026-03-17",
-          "total": 34
-        },
-        {
-          "date": "2026-03-18",
-          "total": 34
-        },
-        {
-          "date": "2026-03-19",
-          "total": 34
-        },
-        {
-          "date": "2026-03-20",
-          "total": 34
-        },
-        {
-          "date": "2026-03-21",
-          "total": 34
-        },
-        {
-          "date": "2026-03-22",
-          "total": 34
-        },
-        {
-          "date": "2026-03-23",
-          "total": 34
-        },
-        {
-          "date": "2026-03-24",
-          "total": 34
-        },
-        {
-          "date": "2026-03-25",
-          "total": 34
-        },
-        {
-          "date": "2026-03-26",
-          "total": 34
-        },
-        {
-          "date": "2026-03-27",
-          "total": 34
-        },
-        {
-          "date": "2026-03-28",
-          "total": 34
-        },
-        {
-          "date": "2026-03-29",
-          "total": 34
-        },
-        {
-          "date": "2026-03-30",
-          "total": 34
-        },
-        {
-          "date": "2026-03-31",
-          "total": 34
-        },
-        {
-          "date": "2026-04-01",
-          "total": 34
-        },
-        {
-          "date": "2026-04-02",
-          "total": 34
-        },
-        {
-          "date": "2026-04-03",
-          "total": 34
-        },
-        {
-          "date": "2026-04-04",
-          "total": 34
-        },
-        {
-          "date": "2026-04-05",
-          "total": 34
-        },
-        {
-          "date": "2026-04-06",
-          "total": 34
-        },
-        {
-          "date": "2026-04-07",
-          "total": 34
-        },
-        {
-          "date": "2026-04-08",
-          "total": 34
-        },
-        {
-          "date": "2026-04-09",
-          "total": 34
-        },
-        {
-          "date": "2026-04-10",
-          "total": 34
-        },
-        {
-          "date": "2026-04-11",
-          "total": 34
-        },
-        {
-          "date": "2026-04-12",
-          "total": 34
-        },
-        {
-          "date": "2026-04-13",
-          "total": 34
-        },
-        {
-          "date": "2026-04-14",
-          "total": 34
-        },
-        {
-          "date": "2026-04-15",
-          "total": 34
-        },
-        {
-          "date": "2026-04-16",
-          "total": 34
-        },
-        {
-          "date": "2026-04-17",
-          "total": 34
-        },
-        {
-          "date": "2026-04-18",
-          "total": 34
-        },
-        {
-          "date": "2026-04-19",
-          "total": 34
-        },
-        {
-          "date": "2026-04-20",
-          "total": 34
-        },
-        {
-          "date": "2026-04-21",
-          "total": 34
-        },
-        {
-          "date": "2026-04-22",
-          "total": 34
-        },
-        {
-          "date": "2026-04-23",
-          "total": 34
-        },
-        {
-          "date": "2026-04-24",
-          "total": 34
-        },
-        {
-          "date": "2026-04-25",
-          "total": 34
-        },
-        {
-          "date": "2026-04-26",
-          "total": 34
-        },
-        {
-          "date": "2026-04-27",
-          "total": 34
-        },
-        {
-          "date": "2026-04-28",
-          "total": 34
-        },
-        {
-          "date": "2026-04-29",
-          "total": 34
-        },
-        {
-          "date": "2026-04-30",
-          "total": 34
-        },
-        {
-          "date": "2026-05-01",
-          "total": 34
-        },
-        {
-          "date": "2026-05-02",
-          "total": 34
-        },
-        {
-          "date": "2026-05-03",
-          "total": 34
-        },
-        {
-          "date": "2026-05-04",
-          "total": 34
-        },
-        {
-          "date": "2026-05-05",
-          "total": 34
-        },
-        {
-          "date": "2026-05-06",
-          "total": 34
-        },
-        {
-          "date": "2026-05-07",
-          "total": 33
-        },
-        {
-          "date": "2026-05-08",
-          "total": 27
-        },
-        {
-          "date": "2026-05-09",
-          "total": 17
-        },
-        {
-          "date": "2026-05-10",
-          "total": 1
-        },
-        {
-          "date": "2026-05-11",
-          "total": 0
-        }
-      ]
-    },
-    {
-      "user": {
-        "username": "UrielOfir",
-        "displayName": "Uriel Ofir",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30144878?u=4aaceee81155c1e2f5f35e486c0a6b699f48638d&v=4",
-        "bio": "Manager of the Israeli open-source community: maakaf.com.\r\nCOBOL programmer.",
-        "location": "Jerusalem, Israel",
-        "company": "mizrahi-tefahot",
-        "blog": "urielofir.website",
-        "twitterUsername": "OfirUriel",
-        "publicRepos": 94,
-        "followers": 45,
-        "following": 15,
-        "accountType": "User",
-        "createdAt": "2017-07-13T09:26:30.000Z"
-      },
-      "repos": [
-        {
-          "repoName": "Maakaf/maakaf_home",
-          "description": "Website for Ma'akaf - Israeli Open Source Community",
-          "url": "https://github.com/Maakaf/maakaf_home",
-          "primaryLanguage": "JavaScript",
-          "primaryLanguageColor": "#f1e05a",
-          "stargazerCount": 5,
-          "licenseName": "Apache License 2.0",
-          "licenseSpdx": "Apache-2.0",
-          "topics": [
-            "hacktoberfest"
-          ],
-          "commits": 0,
-          "pullRequests": 1,
-          "issues": 1,
-          "prReviews": 0,
-          "prComments": 4,
-          "issueComments": 9
-        },
-        {
-          "repoName": "Maakaf/friends-activity-backend",
-          "description": "A backend service that collects and processes GitHub activity to showcase the contributions of community members.",
-          "url": "https://github.com/Maakaf/friends-activity-backend",
-          "primaryLanguage": "TypeScript",
-          "primaryLanguageColor": "#3178c6",
-          "stargazerCount": 9,
-          "licenseName": "GNU General Public License v3.0",
-          "licenseSpdx": "GPL-3.0",
-          "topics": [
-            "hacktoberfest"
-          ],
-          "commits": 15,
-          "pullRequests": 0,
-          "issues": 0,
-          "prReviews": 0,
-          "prComments": 0,
-          "issueComments": 1
-        },
-        {
-          "repoName": "Maakaf/mentors_project",
-          "description": null,
-          "url": "https://github.com/Maakaf/mentors_project",
-          "primaryLanguage": null,
-          "primaryLanguageColor": null,
-          "stargazerCount": 0,
-          "licenseName": "Apache License 2.0",
-          "licenseSpdx": "Apache-2.0",
-          "topics": [],
-          "commits": 1,
-          "pullRequests": 0,
-          "issues": 0,
-          "prReviews": 0,
-          "prComments": 0,
-          "issueComments": 0
-        },
-        {
-          "repoName": "Maakaf/mentors_backend",
-          "description": null,
-          "url": "https://github.com/Maakaf/mentors_backend",
-          "primaryLanguage": "TypeScript",
-          "primaryLanguageColor": "#3178c6",
-          "stargazerCount": 0,
-          "licenseName": null,
-          "licenseSpdx": null,
-          "topics": [],
-          "commits": 1,
-          "pullRequests": 0,
-          "issues": 0,
-          "prReviews": 0,
-          "prComments": 0,
-          "issueComments": 0
-        }
-      ],
-      "summary": {
-        "totalCommits": 17,
-        "totalPRs": 1,
-        "totalIssues": 1,
-        "totalPRReviews": 0,
-        "totalPRComments": 4,
-        "totalIssueComments": 10
-      },
-      "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 139
-        },
-        {
-          "date": "2026-01-23",
-          "total": 139
-        },
-        {
-          "date": "2026-01-24",
-          "total": 139
-        },
-        {
-          "date": "2026-01-25",
-          "total": 139
-        },
-        {
-          "date": "2026-01-26",
-          "total": 139
-        },
-        {
-          "date": "2026-01-27",
-          "total": 139
-        },
-        {
-          "date": "2026-01-28",
-          "total": 139
-        },
-        {
-          "date": "2026-01-29",
-          "total": 139
-        },
-        {
-          "date": "2026-01-30",
-          "total": 139
-        },
-        {
-          "date": "2026-01-31",
-          "total": 138
-        },
-        {
-          "date": "2026-02-01",
-          "total": 135
-        },
-        {
-          "date": "2026-02-02",
-          "total": 135
-        },
-        {
-          "date": "2026-02-03",
-          "total": 135
-        },
-        {
-          "date": "2026-02-04",
-          "total": 135
-        },
-        {
-          "date": "2026-02-05",
-          "total": 135
-        },
-        {
-          "date": "2026-02-06",
-          "total": 135
-        },
-        {
-          "date": "2026-02-07",
-          "total": 135
-        },
-        {
-          "date": "2026-02-08",
-          "total": 135
-        },
-        {
-          "date": "2026-02-09",
-          "total": 135
-        },
-        {
-          "date": "2026-02-10",
-          "total": 135
-        },
-        {
-          "date": "2026-02-11",
-          "total": 135
-        },
-        {
-          "date": "2026-02-12",
-          "total": 136
-        },
-        {
-          "date": "2026-02-13",
-          "total": 134
-        },
-        {
-          "date": "2026-02-14",
-          "total": 134
-        },
-        {
-          "date": "2026-02-15",
-          "total": 133
-        },
-        {
-          "date": "2026-02-16",
-          "total": 133
-        },
-        {
-          "date": "2026-02-17",
-          "total": 132
-        },
-        {
-          "date": "2026-02-18",
-          "total": 132
-        },
-        {
-          "date": "2026-02-19",
-          "total": 132
-        },
-        {
-          "date": "2026-02-20",
-          "total": 132
-        },
-        {
-          "date": "2026-02-21",
-          "total": 132
-        },
-        {
-          "date": "2026-02-22",
-          "total": 132
-        },
-        {
-          "date": "2026-02-23",
-          "total": 132
-        },
-        {
-          "date": "2026-02-24",
-          "total": 132
-        },
-        {
-          "date": "2026-02-25",
-          "total": 132
-        },
-        {
-          "date": "2026-02-26",
-          "total": 132
-        },
-        {
-          "date": "2026-02-27",
-          "total": 132
-        },
-        {
-          "date": "2026-02-28",
-          "total": 132
-        },
-        {
-          "date": "2026-03-01",
-          "total": 132
-        },
-        {
-          "date": "2026-03-02",
-          "total": 132
-        },
-        {
-          "date": "2026-03-03",
-          "total": 132
-        },
-        {
-          "date": "2026-03-04",
-          "total": 132
-        },
-        {
-          "date": "2026-03-05",
-          "total": 130
-        },
-        {
-          "date": "2026-03-06",
-          "total": 130
-        },
-        {
-          "date": "2026-03-07",
-          "total": 129
-        },
-        {
-          "date": "2026-03-08",
-          "total": 129
-        },
-        {
-          "date": "2026-03-09",
-          "total": 129
-        },
-        {
-          "date": "2026-03-10",
-          "total": 129
-        },
-        {
-          "date": "2026-03-11",
-          "total": 129
-        },
-        {
-          "date": "2026-03-12",
-          "total": 126
-        },
-        {
-          "date": "2026-03-13",
-          "total": 126
-        },
-        {
-          "date": "2026-03-14",
-          "total": 126
-        },
-        {
-          "date": "2026-03-15",
-          "total": 126
-        },
-        {
-          "date": "2026-03-16",
-          "total": 126
-        },
-        {
-          "date": "2026-03-17",
-          "total": 126
-        },
-        {
-          "date": "2026-03-18",
-          "total": 126
-        },
-        {
-          "date": "2026-03-19",
-          "total": 127
-        },
-        {
-          "date": "2026-03-20",
-          "total": 127
-        },
-        {
-          "date": "2026-03-21",
-          "total": 126
-        },
-        {
-          "date": "2026-03-22",
-          "total": 125
-        },
-        {
-          "date": "2026-03-23",
-          "total": 125
-        },
-        {
-          "date": "2026-03-24",
-          "total": 125
-        },
-        {
-          "date": "2026-03-25",
-          "total": 125
-        },
-        {
-          "date": "2026-03-26",
-          "total": 125
-        },
-        {
-          "date": "2026-03-27",
-          "total": 125
-        },
-        {
-          "date": "2026-03-28",
-          "total": 125
-        },
-        {
-          "date": "2026-03-29",
-          "total": 125
-        },
-        {
-          "date": "2026-03-30",
-          "total": 125
-        },
-        {
-          "date": "2026-03-31",
-          "total": 125
-        },
-        {
-          "date": "2026-04-01",
-          "total": 125
-        },
-        {
-          "date": "2026-04-02",
-          "total": 125
-        },
-        {
-          "date": "2026-04-03",
-          "total": 125
-        },
-        {
-          "date": "2026-04-04",
-          "total": 124
-        },
-        {
-          "date": "2026-04-05",
-          "total": 123
-        },
-        {
-          "date": "2026-04-06",
-          "total": 123
-        },
-        {
-          "date": "2026-04-07",
-          "total": 123
-        },
-        {
-          "date": "2026-04-08",
-          "total": 123
-        },
-        {
-          "date": "2026-04-09",
-          "total": 123
-        },
-        {
-          "date": "2026-04-10",
-          "total": 123
-        },
-        {
-          "date": "2026-04-11",
-          "total": 123
-        },
-        {
-          "date": "2026-04-12",
-          "total": 123
-        },
-        {
-          "date": "2026-04-13",
-          "total": 123
-        },
-        {
-          "date": "2026-04-14",
-          "total": 123
-        },
-        {
-          "date": "2026-04-15",
-          "total": 123
-        },
-        {
-          "date": "2026-04-16",
-          "total": 123
-        },
-        {
-          "date": "2026-04-17",
-          "total": 122
-        },
-        {
-          "date": "2026-04-18",
-          "total": 122
-        },
-        {
-          "date": "2026-04-19",
-          "total": 122
-        },
-        {
-          "date": "2026-04-20",
-          "total": 120
-        },
-        {
-          "date": "2026-04-21",
-          "total": 120
-        },
-        {
-          "date": "2026-04-22",
-          "total": 120
-        },
-        {
-          "date": "2026-04-23",
-          "total": 117
-        },
-        {
-          "date": "2026-04-24",
-          "total": 110
-        },
-        {
-          "date": "2026-04-25",
-          "total": 107
-        },
-        {
-          "date": "2026-04-26",
-          "total": 106
-        },
-        {
-          "date": "2026-04-27",
-          "total": 101
-        },
-        {
-          "date": "2026-04-28",
-          "total": 98
-        },
-        {
-          "date": "2026-04-29",
-          "total": 91
-        },
-        {
-          "date": "2026-04-30",
-          "total": 89
-        },
-        {
-          "date": "2026-05-01",
-          "total": 87
-        },
-        {
-          "date": "2026-05-02",
-          "total": 84
-        },
-        {
-          "date": "2026-05-03",
-          "total": 85
-        },
-        {
-          "date": "2026-05-04",
-          "total": 82
-        },
-        {
-          "date": "2026-05-05",
-          "total": 81
-        },
-        {
-          "date": "2026-05-06",
-          "total": 79
-        },
-        {
-          "date": "2026-05-07",
-          "total": 77
-        },
-        {
-          "date": "2026-05-08",
-          "total": 77
-        },
-        {
-          "date": "2026-05-09",
-          "total": 56
-        },
-        {
-          "date": "2026-05-10",
-          "total": 54
-        },
-        {
-          "date": "2026-05-11",
-          "total": 54
-        },
-        {
-          "date": "2026-05-12",
-          "total": 55
-        },
-        {
-          "date": "2026-05-13",
-          "total": 55
-        },
-        {
-          "date": "2026-05-14",
-          "total": 55
-        },
-        {
-          "date": "2026-05-15",
-          "total": 53
-        },
-        {
-          "date": "2026-05-16",
-          "total": 53
-        },
-        {
-          "date": "2026-05-17",
-          "total": 52
-        },
-        {
-          "date": "2026-05-18",
-          "total": 52
-        },
-        {
-          "date": "2026-05-19",
-          "total": 52
-        },
-        {
-          "date": "2026-05-20",
-          "total": 52
-        },
-        {
-          "date": "2026-05-21",
-          "total": 41
-        },
-        {
-          "date": "2026-05-22",
-          "total": 41
-        },
-        {
-          "date": "2026-05-23",
-          "total": 41
-        },
-        {
-          "date": "2026-05-24",
-          "total": 40
-        },
-        {
-          "date": "2026-05-25",
-          "total": 40
-        },
-        {
-          "date": "2026-05-26",
-          "total": 40
-        },
-        {
-          "date": "2026-05-27",
-          "total": 40
-        },
-        {
-          "date": "2026-05-28",
-          "total": 39
-        },
-        {
-          "date": "2026-05-29",
-          "total": 39
-        },
-        {
-          "date": "2026-05-30",
-          "total": 39
-        },
-        {
-          "date": "2026-05-31",
-          "total": 39
-        },
-        {
-          "date": "2026-06-01",
-          "total": 36
-        },
-        {
-          "date": "2026-06-02",
-          "total": 35
-        },
-        {
-          "date": "2026-06-03",
-          "total": 36
-        },
-        {
-          "date": "2026-06-04",
-          "total": 37
-        },
-        {
-          "date": "2026-06-05",
-          "total": 37
-        },
-        {
-          "date": "2026-06-06",
-          "total": 38
-        },
-        {
-          "date": "2026-06-07",
-          "total": 41
-        },
-        {
-          "date": "2026-06-08",
-          "total": 43
-        },
-        {
-          "date": "2026-06-09",
-          "total": 43
-        },
-        {
-          "date": "2026-06-10",
-          "total": 43
-        },
-        {
-          "date": "2026-06-11",
-          "total": 45
-        },
-        {
-          "date": "2026-06-12",
-          "total": 45
-        },
-        {
-          "date": "2026-06-13",
-          "total": 45
-        },
-        {
-          "date": "2026-06-14",
-          "total": 45
-        },
-        {
-          "date": "2026-06-15",
-          "total": 45
-        },
-        {
-          "date": "2026-06-16",
-          "total": 45
-        },
-        {
-          "date": "2026-06-17",
-          "total": 45
-        },
-        {
-          "date": "2026-06-18",
-          "total": 45
-        },
-        {
-          "date": "2026-06-19",
-          "total": 45
-        },
-        {
-          "date": "2026-06-20",
-          "total": 45
-        },
-        {
-          "date": "2026-06-21",
-          "total": 46
-        },
-        {
-          "date": "2026-06-22",
-          "total": 46
-        },
-        {
-          "date": "2026-06-23",
-          "total": 47
-        },
-        {
-          "date": "2026-06-24",
-          "total": 47
-        },
-        {
-          "date": "2026-06-25",
-          "total": 47
-        },
-        {
-          "date": "2026-06-26",
-          "total": 47
-        },
-        {
-          "date": "2026-06-27",
-          "total": 47
-        },
-        {
-          "date": "2026-06-28",
-          "total": 48
-        },
-        {
-          "date": "2026-06-29",
-          "total": 44
-        },
-        {
-          "date": "2026-06-30",
-          "total": 44
-        },
-        {
-          "date": "2026-07-01",
-          "total": 44
-        },
-        {
-          "date": "2026-07-02",
-          "total": 44
-        },
-        {
-          "date": "2026-07-03",
-          "total": 44
-        },
-        {
-          "date": "2026-07-04",
-          "total": 44
-        },
-        {
-          "date": "2026-07-05",
-          "total": 44
-        },
-        {
-          "date": "2026-07-06",
-          "total": 44
-        },
-        {
-          "date": "2026-07-07",
-          "total": 44
-        },
-        {
-          "date": "2026-07-08",
-          "total": 44
-        },
-        {
-          "date": "2026-07-09",
-          "total": 43
-        },
-        {
-          "date": "2026-07-10",
-          "total": 42
-        },
-        {
-          "date": "2026-07-11",
-          "total": 37
-        },
-        {
-          "date": "2026-07-12",
-          "total": 37
-        },
-        {
-          "date": "2026-07-13",
-          "total": 37
-        },
-        {
-          "date": "2026-07-14",
-          "total": 36
-        },
-        {
-          "date": "2026-07-15",
-          "total": 36
-        },
-        {
-          "date": "2026-07-16",
-          "total": 34
-        },
-        {
-          "date": "2026-07-17",
-          "total": 34
-        },
-        {
-          "date": "2026-07-18",
-          "total": 34
-        },
-        {
-          "date": "2026-07-19",
-          "total": 33
-        },
-        {
-          "date": "2026-07-20",
-          "total": 33
-        }
-      ]
-    },
-    {
-      "user": {
         "username": "moti-gabay",
         "displayName": "Moti Gabay",
         "avatarUrl": "https://avatars.githubusercontent.com/u/129662657?u=536c9e29e4c9b5f1f4633629528a3343d0386596&v=4",
@@ -1377,10 +64,6 @@
         "totalIssueComments": 7
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 1
-        },
         {
           "date": "2026-01-23",
           "total": 1
@@ -2096,6 +779,498 @@
         {
           "date": "2026-07-20",
           "total": 28
+        },
+        {
+          "date": "2026-07-21",
+          "total": 28
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "ShacharES",
+        "displayName": "Shachar Even Shoshan",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/182784923?u=de3bc3a419dd3bde27b58ff372991b9e9ba7ca9f&v=4",
+        "bio": "💻 Code, ☁️ Cloud, 🚀 Scaling systems | C++ & Go",
+        "location": null,
+        "company": null,
+        "blog": null,
+        "twitterUsername": null,
+        "publicRepos": 12,
+        "followers": 0,
+        "following": 3,
+        "accountType": "User",
+        "createdAt": "2024-09-25T14:26:25.000Z"
+      },
+      "repos": [
+        {
+          "repoName": "Maakaf/maakaf_home",
+          "description": "Website for Ma'akaf - Israeli Open Source Community",
+          "url": "https://github.com/Maakaf/maakaf_home",
+          "primaryLanguage": "JavaScript",
+          "primaryLanguageColor": "#f1e05a",
+          "stargazerCount": 5,
+          "licenseName": "Apache License 2.0",
+          "licenseSpdx": "Apache-2.0",
+          "topics": [
+            "hacktoberfest"
+          ],
+          "commits": 0,
+          "pullRequests": 1,
+          "issues": 0,
+          "prReviews": 0,
+          "prComments": 0,
+          "issueComments": 0
+        }
+      ],
+      "summary": {
+        "totalCommits": 0,
+        "totalPRs": 1,
+        "totalIssues": 0,
+        "totalPRReviews": 0,
+        "totalPRComments": 0,
+        "totalIssueComments": 0
+      },
+      "rollingActivity": [
+        {
+          "date": "2026-01-22",
+          "total": 36
+        },
+        {
+          "date": "2026-01-23",
+          "total": 35
+        },
+        {
+          "date": "2026-01-24",
+          "total": 35
+        },
+        {
+          "date": "2026-01-25",
+          "total": 35
+        },
+        {
+          "date": "2026-01-26",
+          "total": 35
+        },
+        {
+          "date": "2026-01-27",
+          "total": 35
+        },
+        {
+          "date": "2026-01-28",
+          "total": 35
+        },
+        {
+          "date": "2026-01-29",
+          "total": 35
+        },
+        {
+          "date": "2026-01-30",
+          "total": 35
+        },
+        {
+          "date": "2026-01-31",
+          "total": 35
+        },
+        {
+          "date": "2026-02-01",
+          "total": 35
+        },
+        {
+          "date": "2026-02-02",
+          "total": 35
+        },
+        {
+          "date": "2026-02-03",
+          "total": 35
+        },
+        {
+          "date": "2026-02-04",
+          "total": 35
+        },
+        {
+          "date": "2026-02-05",
+          "total": 35
+        },
+        {
+          "date": "2026-02-06",
+          "total": 35
+        },
+        {
+          "date": "2026-02-07",
+          "total": 35
+        },
+        {
+          "date": "2026-02-08",
+          "total": 35
+        },
+        {
+          "date": "2026-02-09",
+          "total": 35
+        },
+        {
+          "date": "2026-02-10",
+          "total": 35
+        },
+        {
+          "date": "2026-02-11",
+          "total": 35
+        },
+        {
+          "date": "2026-02-12",
+          "total": 35
+        },
+        {
+          "date": "2026-02-13",
+          "total": 35
+        },
+        {
+          "date": "2026-02-14",
+          "total": 34
+        },
+        {
+          "date": "2026-02-15",
+          "total": 34
+        },
+        {
+          "date": "2026-02-16",
+          "total": 34
+        },
+        {
+          "date": "2026-02-17",
+          "total": 34
+        },
+        {
+          "date": "2026-02-18",
+          "total": 34
+        },
+        {
+          "date": "2026-02-19",
+          "total": 34
+        },
+        {
+          "date": "2026-02-20",
+          "total": 34
+        },
+        {
+          "date": "2026-02-21",
+          "total": 34
+        },
+        {
+          "date": "2026-02-22",
+          "total": 34
+        },
+        {
+          "date": "2026-02-23",
+          "total": 34
+        },
+        {
+          "date": "2026-02-24",
+          "total": 34
+        },
+        {
+          "date": "2026-02-25",
+          "total": 34
+        },
+        {
+          "date": "2026-02-26",
+          "total": 34
+        },
+        {
+          "date": "2026-02-27",
+          "total": 34
+        },
+        {
+          "date": "2026-02-28",
+          "total": 34
+        },
+        {
+          "date": "2026-03-01",
+          "total": 34
+        },
+        {
+          "date": "2026-03-02",
+          "total": 34
+        },
+        {
+          "date": "2026-03-03",
+          "total": 34
+        },
+        {
+          "date": "2026-03-04",
+          "total": 34
+        },
+        {
+          "date": "2026-03-05",
+          "total": 34
+        },
+        {
+          "date": "2026-03-06",
+          "total": 34
+        },
+        {
+          "date": "2026-03-07",
+          "total": 34
+        },
+        {
+          "date": "2026-03-08",
+          "total": 34
+        },
+        {
+          "date": "2026-03-09",
+          "total": 34
+        },
+        {
+          "date": "2026-03-10",
+          "total": 34
+        },
+        {
+          "date": "2026-03-11",
+          "total": 34
+        },
+        {
+          "date": "2026-03-12",
+          "total": 34
+        },
+        {
+          "date": "2026-03-13",
+          "total": 34
+        },
+        {
+          "date": "2026-03-14",
+          "total": 34
+        },
+        {
+          "date": "2026-03-15",
+          "total": 34
+        },
+        {
+          "date": "2026-03-16",
+          "total": 34
+        },
+        {
+          "date": "2026-03-17",
+          "total": 34
+        },
+        {
+          "date": "2026-03-18",
+          "total": 34
+        },
+        {
+          "date": "2026-03-19",
+          "total": 34
+        },
+        {
+          "date": "2026-03-20",
+          "total": 34
+        },
+        {
+          "date": "2026-03-21",
+          "total": 34
+        },
+        {
+          "date": "2026-03-22",
+          "total": 34
+        },
+        {
+          "date": "2026-03-23",
+          "total": 34
+        },
+        {
+          "date": "2026-03-24",
+          "total": 34
+        },
+        {
+          "date": "2026-03-25",
+          "total": 34
+        },
+        {
+          "date": "2026-03-26",
+          "total": 34
+        },
+        {
+          "date": "2026-03-27",
+          "total": 34
+        },
+        {
+          "date": "2026-03-28",
+          "total": 34
+        },
+        {
+          "date": "2026-03-29",
+          "total": 34
+        },
+        {
+          "date": "2026-03-30",
+          "total": 34
+        },
+        {
+          "date": "2026-03-31",
+          "total": 34
+        },
+        {
+          "date": "2026-04-01",
+          "total": 34
+        },
+        {
+          "date": "2026-04-02",
+          "total": 34
+        },
+        {
+          "date": "2026-04-03",
+          "total": 34
+        },
+        {
+          "date": "2026-04-04",
+          "total": 34
+        },
+        {
+          "date": "2026-04-05",
+          "total": 34
+        },
+        {
+          "date": "2026-04-06",
+          "total": 34
+        },
+        {
+          "date": "2026-04-07",
+          "total": 34
+        },
+        {
+          "date": "2026-04-08",
+          "total": 34
+        },
+        {
+          "date": "2026-04-09",
+          "total": 34
+        },
+        {
+          "date": "2026-04-10",
+          "total": 34
+        },
+        {
+          "date": "2026-04-11",
+          "total": 34
+        },
+        {
+          "date": "2026-04-12",
+          "total": 34
+        },
+        {
+          "date": "2026-04-13",
+          "total": 34
+        },
+        {
+          "date": "2026-04-14",
+          "total": 34
+        },
+        {
+          "date": "2026-04-15",
+          "total": 34
+        },
+        {
+          "date": "2026-04-16",
+          "total": 34
+        },
+        {
+          "date": "2026-04-17",
+          "total": 34
+        },
+        {
+          "date": "2026-04-18",
+          "total": 34
+        },
+        {
+          "date": "2026-04-19",
+          "total": 34
+        },
+        {
+          "date": "2026-04-20",
+          "total": 34
+        },
+        {
+          "date": "2026-04-21",
+          "total": 34
+        },
+        {
+          "date": "2026-04-22",
+          "total": 34
+        },
+        {
+          "date": "2026-04-23",
+          "total": 34
+        },
+        {
+          "date": "2026-04-24",
+          "total": 34
+        },
+        {
+          "date": "2026-04-25",
+          "total": 34
+        },
+        {
+          "date": "2026-04-26",
+          "total": 34
+        },
+        {
+          "date": "2026-04-27",
+          "total": 34
+        },
+        {
+          "date": "2026-04-28",
+          "total": 34
+        },
+        {
+          "date": "2026-04-29",
+          "total": 34
+        },
+        {
+          "date": "2026-04-30",
+          "total": 34
+        },
+        {
+          "date": "2026-05-01",
+          "total": 34
+        },
+        {
+          "date": "2026-05-02",
+          "total": 34
+        },
+        {
+          "date": "2026-05-03",
+          "total": 34
+        },
+        {
+          "date": "2026-05-04",
+          "total": 34
+        },
+        {
+          "date": "2026-05-05",
+          "total": 34
+        },
+        {
+          "date": "2026-05-06",
+          "total": 34
+        },
+        {
+          "date": "2026-05-07",
+          "total": 33
+        },
+        {
+          "date": "2026-05-08",
+          "total": 27
+        },
+        {
+          "date": "2026-05-09",
+          "total": 17
+        },
+        {
+          "date": "2026-05-10",
+          "total": 1
+        },
+        {
+          "date": "2026-05-11",
+          "total": 0
         }
       ]
     },
@@ -2152,7 +1327,7 @@
           "url": "https://github.com/hey-api/hey-api",
           "primaryLanguage": "TypeScript",
           "primaryLanguageColor": "#3178c6",
-          "stargazerCount": 5122,
+          "stargazerCount": 5125,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -2199,7 +1374,7 @@
           "url": "https://github.com/orval-labs/orval",
           "primaryLanguage": "TypeScript",
           "primaryLanguageColor": "#3178c6",
-          "stargazerCount": 6251,
+          "stargazerCount": 6256,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -2274,10 +1449,6 @@
         "totalIssueComments": 3
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 0
-        },
         {
           "date": "2026-01-23",
           "total": 0
@@ -2993,6 +2164,10 @@
         {
           "date": "2026-07-20",
           "total": 141
+        },
+        {
+          "date": "2026-07-21",
+          "total": 141
         }
       ]
     },
@@ -3019,7 +2194,7 @@
           "url": "https://github.com/manaflow-ai/cmux",
           "primaryLanguage": "Swift",
           "primaryLanguageColor": "#F05138",
-          "stargazerCount": 24806,
+          "stargazerCount": 24867,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3055,7 +2230,7 @@
           "url": "https://github.com/VoltAgent/awesome-agent-skills",
           "primaryLanguage": null,
           "primaryLanguageColor": null,
-          "stargazerCount": 28456,
+          "stargazerCount": 28537,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3087,7 +2262,7 @@
           "url": "https://github.com/zed-industries/zed",
           "primaryLanguage": "Rust",
           "primaryLanguageColor": "#dea584",
-          "stargazerCount": 87257,
+          "stargazerCount": 87314,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3109,7 +2284,7 @@
           "url": "https://github.com/hesreallyhim/awesome-claude-code",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 50444,
+          "stargazerCount": 50522,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3163,7 +2338,7 @@
           "url": "https://github.com/pydantic/monty",
           "primaryLanguage": "Rust",
           "primaryLanguageColor": "#dea584",
-          "stargazerCount": 7900,
+          "stargazerCount": 7909,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [],
@@ -3180,7 +2355,7 @@
           "url": "https://github.com/Arize-ai/openinference",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 1095,
+          "stargazerCount": 1103,
           "licenseName": "Apache License 2.0",
           "licenseSpdx": "Apache-2.0",
           "topics": [
@@ -3217,7 +2392,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 217342,
+          "stargazerCount": 217893,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3251,7 +2426,7 @@
           "url": "https://github.com/travisvn/awesome-claude-skills",
           "primaryLanguage": null,
           "primaryLanguageColor": null,
-          "stargazerCount": 14210,
+          "stargazerCount": 14222,
           "licenseName": null,
           "licenseSpdx": null,
           "topics": [
@@ -3280,7 +2455,7 @@
           "url": "https://github.com/BerriAI/litellm",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 54050,
+          "stargazerCount": 54177,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3314,7 +2489,7 @@
           "url": "https://github.com/alexballas/go2tv",
           "primaryLanguage": "Go",
           "primaryLanguageColor": "#00ADD8",
-          "stargazerCount": 921,
+          "stargazerCount": 922,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3344,7 +2519,7 @@
           "url": "https://github.com/BehiSecc/awesome-claude-skills",
           "primaryLanguage": null,
           "primaryLanguageColor": null,
-          "stargazerCount": 9805,
+          "stargazerCount": 9809,
           "licenseName": null,
           "licenseSpdx": null,
           "topics": [],
@@ -3361,7 +2536,7 @@
           "url": "https://github.com/ComposioHQ/awesome-claude-skills",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 68127,
+          "stargazerCount": 68267,
           "licenseName": null,
           "licenseSpdx": null,
           "topics": [
@@ -3392,11 +2567,11 @@
         },
         {
           "repoName": "sickn33/agentic-awesome-skills",
-          "description": "AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+          "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
           "url": "https://github.com/sickn33/agentic-awesome-skills",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 43600,
+          "stargazerCount": 43650,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3434,7 +2609,7 @@
           "url": "https://github.com/pydantic/pydantic-ai",
           "primaryLanguage": "Python",
           "primaryLanguageColor": "#3572A5",
-          "stargazerCount": 18660,
+          "stargazerCount": 18681,
           "licenseName": "MIT License",
           "licenseSpdx": "MIT",
           "topics": [
@@ -3457,7 +2632,7 @@
           "url": "https://github.com/astral-sh/uv",
           "primaryLanguage": "Rust",
           "primaryLanguageColor": "#dea584",
-          "stargazerCount": 87658,
+          "stargazerCount": 87684,
           "licenseName": "Apache License 2.0",
           "licenseSpdx": "Apache-2.0",
           "topics": [
@@ -3547,7 +2722,7 @@
           "url": "https://github.com/npm/cli",
           "primaryLanguage": "JavaScript",
           "primaryLanguageColor": "#f1e05a",
-          "stargazerCount": 9956,
+          "stargazerCount": 9959,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -3575,10 +2750,6 @@
         "totalIssueComments": 5
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 17
-        },
         {
           "date": "2026-01-23",
           "total": 17
@@ -4294,6 +3465,10 @@
         {
           "date": "2026-07-20",
           "total": 127
+        },
+        {
+          "date": "2026-07-21",
+          "total": 127
         }
       ]
     },
@@ -4339,7 +3514,7 @@
             "hacktoberfest"
           ],
           "commits": 136,
-          "pullRequests": 72,
+          "pullRequests": 71,
           "issues": 0,
           "prReviews": 2,
           "prComments": 13,
@@ -4376,17 +3551,13 @@
       ],
       "summary": {
         "totalCommits": 164,
-        "totalPRs": 81,
+        "totalPRs": 80,
         "totalIssues": 0,
         "totalPRReviews": 3,
         "totalPRComments": 17,
         "totalIssueComments": 13
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 203
-        },
         {
           "date": "2026-01-23",
           "total": 204
@@ -5102,6 +4273,831 @@
         {
           "date": "2026-07-20",
           "total": 277
+        },
+        {
+          "date": "2026-07-21",
+          "total": 267
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "UrielOfir",
+        "displayName": "Uriel Ofir",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30144878?u=4aaceee81155c1e2f5f35e486c0a6b699f48638d&v=4",
+        "bio": "Manager of the Israeli open-source community: maakaf.com.\r\nCOBOL programmer.",
+        "location": "Jerusalem, Israel",
+        "company": "mizrahi-tefahot",
+        "blog": "urielofir.website",
+        "twitterUsername": "OfirUriel",
+        "publicRepos": 94,
+        "followers": 45,
+        "following": 15,
+        "accountType": "User",
+        "createdAt": "2017-07-13T09:26:30.000Z"
+      },
+      "repos": [
+        {
+          "repoName": "Maakaf/maakaf_home",
+          "description": "Website for Ma'akaf - Israeli Open Source Community",
+          "url": "https://github.com/Maakaf/maakaf_home",
+          "primaryLanguage": "JavaScript",
+          "primaryLanguageColor": "#f1e05a",
+          "stargazerCount": 5,
+          "licenseName": "Apache License 2.0",
+          "licenseSpdx": "Apache-2.0",
+          "topics": [
+            "hacktoberfest"
+          ],
+          "commits": 0,
+          "pullRequests": 1,
+          "issues": 1,
+          "prReviews": 0,
+          "prComments": 4,
+          "issueComments": 9
+        },
+        {
+          "repoName": "Maakaf/friends-activity-backend",
+          "description": "A backend service that collects and processes GitHub activity to showcase the contributions of community members.",
+          "url": "https://github.com/Maakaf/friends-activity-backend",
+          "primaryLanguage": "TypeScript",
+          "primaryLanguageColor": "#3178c6",
+          "stargazerCount": 9,
+          "licenseName": "GNU General Public License v3.0",
+          "licenseSpdx": "GPL-3.0",
+          "topics": [
+            "hacktoberfest"
+          ],
+          "commits": 15,
+          "pullRequests": 0,
+          "issues": 0,
+          "prReviews": 0,
+          "prComments": 0,
+          "issueComments": 1
+        },
+        {
+          "repoName": "Maakaf/mentors_project",
+          "description": null,
+          "url": "https://github.com/Maakaf/mentors_project",
+          "primaryLanguage": null,
+          "primaryLanguageColor": null,
+          "stargazerCount": 0,
+          "licenseName": "Apache License 2.0",
+          "licenseSpdx": "Apache-2.0",
+          "topics": [],
+          "commits": 1,
+          "pullRequests": 0,
+          "issues": 0,
+          "prReviews": 0,
+          "prComments": 0,
+          "issueComments": 0
+        },
+        {
+          "repoName": "Maakaf/mentors_backend",
+          "description": null,
+          "url": "https://github.com/Maakaf/mentors_backend",
+          "primaryLanguage": "TypeScript",
+          "primaryLanguageColor": "#3178c6",
+          "stargazerCount": 0,
+          "licenseName": null,
+          "licenseSpdx": null,
+          "topics": [],
+          "commits": 1,
+          "pullRequests": 0,
+          "issues": 0,
+          "prReviews": 0,
+          "prComments": 0,
+          "issueComments": 0
+        }
+      ],
+      "summary": {
+        "totalCommits": 17,
+        "totalPRs": 1,
+        "totalIssues": 1,
+        "totalPRReviews": 0,
+        "totalPRComments": 4,
+        "totalIssueComments": 10
+      },
+      "rollingActivity": [
+        {
+          "date": "2026-01-23",
+          "total": 139
+        },
+        {
+          "date": "2026-01-24",
+          "total": 139
+        },
+        {
+          "date": "2026-01-25",
+          "total": 139
+        },
+        {
+          "date": "2026-01-26",
+          "total": 139
+        },
+        {
+          "date": "2026-01-27",
+          "total": 139
+        },
+        {
+          "date": "2026-01-28",
+          "total": 139
+        },
+        {
+          "date": "2026-01-29",
+          "total": 139
+        },
+        {
+          "date": "2026-01-30",
+          "total": 139
+        },
+        {
+          "date": "2026-01-31",
+          "total": 138
+        },
+        {
+          "date": "2026-02-01",
+          "total": 135
+        },
+        {
+          "date": "2026-02-02",
+          "total": 135
+        },
+        {
+          "date": "2026-02-03",
+          "total": 135
+        },
+        {
+          "date": "2026-02-04",
+          "total": 135
+        },
+        {
+          "date": "2026-02-05",
+          "total": 135
+        },
+        {
+          "date": "2026-02-06",
+          "total": 135
+        },
+        {
+          "date": "2026-02-07",
+          "total": 135
+        },
+        {
+          "date": "2026-02-08",
+          "total": 135
+        },
+        {
+          "date": "2026-02-09",
+          "total": 135
+        },
+        {
+          "date": "2026-02-10",
+          "total": 135
+        },
+        {
+          "date": "2026-02-11",
+          "total": 135
+        },
+        {
+          "date": "2026-02-12",
+          "total": 136
+        },
+        {
+          "date": "2026-02-13",
+          "total": 134
+        },
+        {
+          "date": "2026-02-14",
+          "total": 134
+        },
+        {
+          "date": "2026-02-15",
+          "total": 133
+        },
+        {
+          "date": "2026-02-16",
+          "total": 133
+        },
+        {
+          "date": "2026-02-17",
+          "total": 132
+        },
+        {
+          "date": "2026-02-18",
+          "total": 132
+        },
+        {
+          "date": "2026-02-19",
+          "total": 132
+        },
+        {
+          "date": "2026-02-20",
+          "total": 132
+        },
+        {
+          "date": "2026-02-21",
+          "total": 132
+        },
+        {
+          "date": "2026-02-22",
+          "total": 132
+        },
+        {
+          "date": "2026-02-23",
+          "total": 132
+        },
+        {
+          "date": "2026-02-24",
+          "total": 132
+        },
+        {
+          "date": "2026-02-25",
+          "total": 132
+        },
+        {
+          "date": "2026-02-26",
+          "total": 132
+        },
+        {
+          "date": "2026-02-27",
+          "total": 132
+        },
+        {
+          "date": "2026-02-28",
+          "total": 132
+        },
+        {
+          "date": "2026-03-01",
+          "total": 132
+        },
+        {
+          "date": "2026-03-02",
+          "total": 132
+        },
+        {
+          "date": "2026-03-03",
+          "total": 132
+        },
+        {
+          "date": "2026-03-04",
+          "total": 132
+        },
+        {
+          "date": "2026-03-05",
+          "total": 130
+        },
+        {
+          "date": "2026-03-06",
+          "total": 130
+        },
+        {
+          "date": "2026-03-07",
+          "total": 129
+        },
+        {
+          "date": "2026-03-08",
+          "total": 129
+        },
+        {
+          "date": "2026-03-09",
+          "total": 129
+        },
+        {
+          "date": "2026-03-10",
+          "total": 129
+        },
+        {
+          "date": "2026-03-11",
+          "total": 129
+        },
+        {
+          "date": "2026-03-12",
+          "total": 126
+        },
+        {
+          "date": "2026-03-13",
+          "total": 126
+        },
+        {
+          "date": "2026-03-14",
+          "total": 126
+        },
+        {
+          "date": "2026-03-15",
+          "total": 126
+        },
+        {
+          "date": "2026-03-16",
+          "total": 126
+        },
+        {
+          "date": "2026-03-17",
+          "total": 126
+        },
+        {
+          "date": "2026-03-18",
+          "total": 126
+        },
+        {
+          "date": "2026-03-19",
+          "total": 127
+        },
+        {
+          "date": "2026-03-20",
+          "total": 127
+        },
+        {
+          "date": "2026-03-21",
+          "total": 126
+        },
+        {
+          "date": "2026-03-22",
+          "total": 125
+        },
+        {
+          "date": "2026-03-23",
+          "total": 125
+        },
+        {
+          "date": "2026-03-24",
+          "total": 125
+        },
+        {
+          "date": "2026-03-25",
+          "total": 125
+        },
+        {
+          "date": "2026-03-26",
+          "total": 125
+        },
+        {
+          "date": "2026-03-27",
+          "total": 125
+        },
+        {
+          "date": "2026-03-28",
+          "total": 125
+        },
+        {
+          "date": "2026-03-29",
+          "total": 125
+        },
+        {
+          "date": "2026-03-30",
+          "total": 125
+        },
+        {
+          "date": "2026-03-31",
+          "total": 125
+        },
+        {
+          "date": "2026-04-01",
+          "total": 125
+        },
+        {
+          "date": "2026-04-02",
+          "total": 125
+        },
+        {
+          "date": "2026-04-03",
+          "total": 125
+        },
+        {
+          "date": "2026-04-04",
+          "total": 124
+        },
+        {
+          "date": "2026-04-05",
+          "total": 123
+        },
+        {
+          "date": "2026-04-06",
+          "total": 123
+        },
+        {
+          "date": "2026-04-07",
+          "total": 123
+        },
+        {
+          "date": "2026-04-08",
+          "total": 123
+        },
+        {
+          "date": "2026-04-09",
+          "total": 123
+        },
+        {
+          "date": "2026-04-10",
+          "total": 123
+        },
+        {
+          "date": "2026-04-11",
+          "total": 123
+        },
+        {
+          "date": "2026-04-12",
+          "total": 123
+        },
+        {
+          "date": "2026-04-13",
+          "total": 123
+        },
+        {
+          "date": "2026-04-14",
+          "total": 123
+        },
+        {
+          "date": "2026-04-15",
+          "total": 123
+        },
+        {
+          "date": "2026-04-16",
+          "total": 123
+        },
+        {
+          "date": "2026-04-17",
+          "total": 122
+        },
+        {
+          "date": "2026-04-18",
+          "total": 122
+        },
+        {
+          "date": "2026-04-19",
+          "total": 122
+        },
+        {
+          "date": "2026-04-20",
+          "total": 120
+        },
+        {
+          "date": "2026-04-21",
+          "total": 120
+        },
+        {
+          "date": "2026-04-22",
+          "total": 120
+        },
+        {
+          "date": "2026-04-23",
+          "total": 117
+        },
+        {
+          "date": "2026-04-24",
+          "total": 110
+        },
+        {
+          "date": "2026-04-25",
+          "total": 107
+        },
+        {
+          "date": "2026-04-26",
+          "total": 106
+        },
+        {
+          "date": "2026-04-27",
+          "total": 101
+        },
+        {
+          "date": "2026-04-28",
+          "total": 98
+        },
+        {
+          "date": "2026-04-29",
+          "total": 91
+        },
+        {
+          "date": "2026-04-30",
+          "total": 89
+        },
+        {
+          "date": "2026-05-01",
+          "total": 87
+        },
+        {
+          "date": "2026-05-02",
+          "total": 84
+        },
+        {
+          "date": "2026-05-03",
+          "total": 85
+        },
+        {
+          "date": "2026-05-04",
+          "total": 82
+        },
+        {
+          "date": "2026-05-05",
+          "total": 81
+        },
+        {
+          "date": "2026-05-06",
+          "total": 79
+        },
+        {
+          "date": "2026-05-07",
+          "total": 77
+        },
+        {
+          "date": "2026-05-08",
+          "total": 77
+        },
+        {
+          "date": "2026-05-09",
+          "total": 56
+        },
+        {
+          "date": "2026-05-10",
+          "total": 54
+        },
+        {
+          "date": "2026-05-11",
+          "total": 54
+        },
+        {
+          "date": "2026-05-12",
+          "total": 55
+        },
+        {
+          "date": "2026-05-13",
+          "total": 55
+        },
+        {
+          "date": "2026-05-14",
+          "total": 55
+        },
+        {
+          "date": "2026-05-15",
+          "total": 53
+        },
+        {
+          "date": "2026-05-16",
+          "total": 53
+        },
+        {
+          "date": "2026-05-17",
+          "total": 52
+        },
+        {
+          "date": "2026-05-18",
+          "total": 52
+        },
+        {
+          "date": "2026-05-19",
+          "total": 52
+        },
+        {
+          "date": "2026-05-20",
+          "total": 52
+        },
+        {
+          "date": "2026-05-21",
+          "total": 41
+        },
+        {
+          "date": "2026-05-22",
+          "total": 41
+        },
+        {
+          "date": "2026-05-23",
+          "total": 41
+        },
+        {
+          "date": "2026-05-24",
+          "total": 40
+        },
+        {
+          "date": "2026-05-25",
+          "total": 40
+        },
+        {
+          "date": "2026-05-26",
+          "total": 40
+        },
+        {
+          "date": "2026-05-27",
+          "total": 40
+        },
+        {
+          "date": "2026-05-28",
+          "total": 39
+        },
+        {
+          "date": "2026-05-29",
+          "total": 39
+        },
+        {
+          "date": "2026-05-30",
+          "total": 39
+        },
+        {
+          "date": "2026-05-31",
+          "total": 39
+        },
+        {
+          "date": "2026-06-01",
+          "total": 36
+        },
+        {
+          "date": "2026-06-02",
+          "total": 35
+        },
+        {
+          "date": "2026-06-03",
+          "total": 36
+        },
+        {
+          "date": "2026-06-04",
+          "total": 37
+        },
+        {
+          "date": "2026-06-05",
+          "total": 37
+        },
+        {
+          "date": "2026-06-06",
+          "total": 38
+        },
+        {
+          "date": "2026-06-07",
+          "total": 41
+        },
+        {
+          "date": "2026-06-08",
+          "total": 43
+        },
+        {
+          "date": "2026-06-09",
+          "total": 43
+        },
+        {
+          "date": "2026-06-10",
+          "total": 43
+        },
+        {
+          "date": "2026-06-11",
+          "total": 45
+        },
+        {
+          "date": "2026-06-12",
+          "total": 45
+        },
+        {
+          "date": "2026-06-13",
+          "total": 45
+        },
+        {
+          "date": "2026-06-14",
+          "total": 45
+        },
+        {
+          "date": "2026-06-15",
+          "total": 45
+        },
+        {
+          "date": "2026-06-16",
+          "total": 45
+        },
+        {
+          "date": "2026-06-17",
+          "total": 45
+        },
+        {
+          "date": "2026-06-18",
+          "total": 45
+        },
+        {
+          "date": "2026-06-19",
+          "total": 45
+        },
+        {
+          "date": "2026-06-20",
+          "total": 45
+        },
+        {
+          "date": "2026-06-21",
+          "total": 46
+        },
+        {
+          "date": "2026-06-22",
+          "total": 46
+        },
+        {
+          "date": "2026-06-23",
+          "total": 47
+        },
+        {
+          "date": "2026-06-24",
+          "total": 47
+        },
+        {
+          "date": "2026-06-25",
+          "total": 47
+        },
+        {
+          "date": "2026-06-26",
+          "total": 47
+        },
+        {
+          "date": "2026-06-27",
+          "total": 47
+        },
+        {
+          "date": "2026-06-28",
+          "total": 48
+        },
+        {
+          "date": "2026-06-29",
+          "total": 44
+        },
+        {
+          "date": "2026-06-30",
+          "total": 44
+        },
+        {
+          "date": "2026-07-01",
+          "total": 44
+        },
+        {
+          "date": "2026-07-02",
+          "total": 44
+        },
+        {
+          "date": "2026-07-03",
+          "total": 44
+        },
+        {
+          "date": "2026-07-04",
+          "total": 44
+        },
+        {
+          "date": "2026-07-05",
+          "total": 44
+        },
+        {
+          "date": "2026-07-06",
+          "total": 44
+        },
+        {
+          "date": "2026-07-07",
+          "total": 44
+        },
+        {
+          "date": "2026-07-08",
+          "total": 44
+        },
+        {
+          "date": "2026-07-09",
+          "total": 43
+        },
+        {
+          "date": "2026-07-10",
+          "total": 42
+        },
+        {
+          "date": "2026-07-11",
+          "total": 37
+        },
+        {
+          "date": "2026-07-12",
+          "total": 37
+        },
+        {
+          "date": "2026-07-13",
+          "total": 37
+        },
+        {
+          "date": "2026-07-14",
+          "total": 36
+        },
+        {
+          "date": "2026-07-15",
+          "total": 36
+        },
+        {
+          "date": "2026-07-16",
+          "total": 34
+        },
+        {
+          "date": "2026-07-17",
+          "total": 34
+        },
+        {
+          "date": "2026-07-18",
+          "total": 34
+        },
+        {
+          "date": "2026-07-19",
+          "total": 33
+        },
+        {
+          "date": "2026-07-20",
+          "total": 33
+        },
+        {
+          "date": "2026-07-21",
+          "total": 33
         }
       ]
     },
@@ -5168,10 +5164,6 @@
         "totalIssueComments": 0
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 12
-        },
         {
           "date": "2026-01-23",
           "total": 12
@@ -5887,6 +5879,10 @@
         {
           "date": "2026-07-20",
           "total": 7
+        },
+        {
+          "date": "2026-07-21",
+          "total": 7
         }
       ]
     },
@@ -6001,7 +5997,7 @@
           "url": "https://github.com/isl-org/Open3D",
           "primaryLanguage": "C++",
           "primaryLanguageColor": "#f34b7d",
-          "stargazerCount": 13807,
+          "stargazerCount": 13809,
           "licenseName": "Other",
           "licenseSpdx": "NOASSERTION",
           "topics": [
@@ -6086,10 +6082,6 @@
         "totalIssueComments": 26
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 131
-        },
         {
           "date": "2026-01-23",
           "total": 131
@@ -6805,6 +6797,10 @@
         {
           "date": "2026-07-20",
           "total": 84
+        },
+        {
+          "date": "2026-07-21",
+          "total": 82
         }
       ]
     },
@@ -6867,7 +6863,7 @@
           "url": "https://github.com/diffplug/spotless",
           "primaryLanguage": "Java",
           "primaryLanguageColor": "#b07219",
-          "stargazerCount": 5557,
+          "stargazerCount": 5559,
           "licenseName": "Apache License 2.0",
           "licenseSpdx": "Apache-2.0",
           "topics": [
@@ -6903,10 +6899,6 @@
         "totalIssueComments": 1
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 98
-        },
         {
           "date": "2026-01-23",
           "total": 93
@@ -7622,6 +7614,10 @@
         {
           "date": "2026-07-20",
           "total": 12
+        },
+        {
+          "date": "2026-07-21",
+          "total": 12
         }
       ]
     },
@@ -7707,10 +7703,6 @@
         "totalIssueComments": 0
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 5
-        },
         {
           "date": "2026-01-23",
           "total": 5
@@ -8426,6 +8418,10 @@
         {
           "date": "2026-07-20",
           "total": 93
+        },
+        {
+          "date": "2026-07-21",
+          "total": 93
         }
       ]
     },
@@ -8492,10 +8488,6 @@
         "totalIssueComments": 0
       },
       "rollingActivity": [
-        {
-          "date": "2026-01-22",
-          "total": 4
-        },
         {
           "date": "2026-01-23",
           "total": 4
@@ -9211,13 +9203,17 @@
         {
           "date": "2026-07-20",
           "total": 12
+        },
+        {
+          "date": "2026-07-21",
+          "total": 11
         }
       ]
     }
   ],
   "globalSummary": {
     "totalCommits": 414,
-    "totalPRs": 232,
+    "totalPRs": 231,
     "totalIssues": 29,
     "totalPRReviews": 5,
     "totalPRComments": 71,
@@ -9226,7 +9222,7 @@
     "successfulUsers": 11,
     "failedUsers": 0,
     "totalUsers": 11,
-    "analysisTimeframe": "2026-01-21 to 2026-07-20",
+    "analysisTimeframe": "2026-01-22 to 2026-07-21",
     "minForkCountFilter": "3"
   },
   "repoLeaderboard": [
@@ -9256,7 +9252,7 @@
         "hacktoberfest"
       ],
       "commits": 136,
-      "pullRequests": 72,
+      "pullRequests": 71,
       "issues": 0,
       "prReviews": 2,
       "prComments": 13,
@@ -9268,7 +9264,7 @@
           "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?u=abebaf4615b1b7aff2ab4bdb0654815d77af686c&v=4"
         }
       ],
-      "totalActivity": 224
+      "totalActivity": 223
     },
     {
       "repoName": "AlmogBaku/debug-skill",
@@ -9334,7 +9330,7 @@
       "repoName": "ealush/emoji-picker-react",
       "description": "The most popular React Emoji Picker",
       "url": "https://github.com/ealush/emoji-picker-react",
-      "forkCount": 213,
+      "forkCount": 214,
       "stargazerCount": 1443,
       "primaryLanguage": "TypeScript",
       "primaryLanguageColor": "#3178c6",
@@ -9405,7 +9401,7 @@
       "description": "👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.",
       "url": "https://github.com/hey-api/hey-api",
       "forkCount": 407,
-      "stargazerCount": 5122,
+      "stargazerCount": 5125,
       "primaryLanguage": "TypeScript",
       "primaryLanguageColor": "#3178c6",
       "licenseName": "MIT License",
@@ -9606,7 +9602,7 @@
       "description": "orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺",
       "url": "https://github.com/orval-labs/orval",
       "forkCount": 647,
-      "stargazerCount": 6251,
+      "stargazerCount": 6256,
       "primaryLanguage": "TypeScript",
       "primaryLanguageColor": "#3178c6",
       "licenseName": "MIT License",
@@ -9676,7 +9672,7 @@
       "description": "Open3D: A Modern Library for 3D Data Processing",
       "url": "https://github.com/isl-org/Open3D",
       "forkCount": 2594,
-      "stargazerCount": 13807,
+      "stargazerCount": 13809,
       "primaryLanguage": "C++",
       "primaryLanguageColor": "#f34b7d",
       "licenseName": "Other",
@@ -9869,8 +9865,8 @@
       "repoName": "BehiSecc/awesome-claude-skills",
       "description": "A curated list of Claude Skills.",
       "url": "https://github.com/BehiSecc/awesome-claude-skills",
-      "forkCount": 1340,
-      "stargazerCount": 9805,
+      "forkCount": 1341,
+      "stargazerCount": 9809,
       "primaryLanguage": null,
       "primaryLanguageColor": null,
       "licenseName": null,
@@ -9922,7 +9918,7 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
       "forkCount": 390,
-      "stargazerCount": 7900,
+      "stargazerCount": 7909,
       "primaryLanguage": "Rust",
       "primaryLanguageColor": "#dea584",
       "licenseName": "MIT License",
@@ -9945,10 +9941,10 @@
     },
     {
       "repoName": "sickn33/agentic-awesome-skills",
-      "description": "AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
       "url": "https://github.com/sickn33/agentic-awesome-skills",
-      "forkCount": 6466,
-      "stargazerCount": 43600,
+      "forkCount": 6463,
+      "stargazerCount": 43650,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "MIT License",
@@ -9995,7 +9991,7 @@
       "description": "Cast media files to Smart TVs and Chromecast devices.",
       "url": "https://github.com/alexballas/go2tv",
       "forkCount": 70,
-      "stargazerCount": 921,
+      "stargazerCount": 922,
       "primaryLanguage": "Go",
       "primaryLanguageColor": "#00ADD8",
       "licenseName": "MIT License",
@@ -10033,8 +10029,8 @@
       "repoName": "BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "url": "https://github.com/BerriAI/litellm",
-      "forkCount": 9892,
-      "stargazerCount": 54050,
+      "forkCount": 9920,
+      "stargazerCount": 54177,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "Other",
@@ -10076,8 +10072,8 @@
       "repoName": "travisvn/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
       "url": "https://github.com/travisvn/awesome-claude-skills",
-      "forkCount": 1720,
-      "stargazerCount": 14210,
+      "forkCount": 1726,
+      "stargazerCount": 14222,
       "primaryLanguage": null,
       "primaryLanguageColor": null,
       "licenseName": null,
@@ -10115,7 +10111,7 @@
       "description": "Keep your code spotless",
       "url": "https://github.com/diffplug/spotless",
       "forkCount": 543,
-      "stargazerCount": 5557,
+      "stargazerCount": 5559,
       "primaryLanguage": "Java",
       "primaryLanguageColor": "#b07219",
       "licenseName": "Apache License 2.0",
@@ -10155,8 +10151,8 @@
       "repoName": "pydantic/pydantic-ai",
       "description": "AI Agent Framework, the Pydantic way",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "forkCount": 2388,
-      "stargazerCount": 18660,
+      "forkCount": 2395,
+      "stargazerCount": 18681,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "MIT License",
@@ -10187,8 +10183,8 @@
       "repoName": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "forkCount": 40931,
-      "stargazerCount": 217342,
+      "forkCount": 41131,
+      "stargazerCount": 217893,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "MIT License",
@@ -10271,8 +10267,8 @@
       "repoName": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "forkCount": 7727,
-      "stargazerCount": 68127,
+      "forkCount": 7742,
+      "stargazerCount": 68267,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": null,
@@ -10315,8 +10311,8 @@
       "repoName": "VoltAgent/awesome-agent-skills",
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "forkCount": 3070,
-      "stargazerCount": 28456,
+      "forkCount": 3074,
+      "stargazerCount": 28537,
       "primaryLanguage": null,
       "primaryLanguageColor": null,
       "licenseName": "MIT License",
@@ -10356,8 +10352,8 @@
       "repoName": "manaflow-ai/cmux",
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "url": "https://github.com/manaflow-ai/cmux",
-      "forkCount": 2025,
-      "stargazerCount": 24806,
+      "forkCount": 2036,
+      "stargazerCount": 24867,
       "primaryLanguage": "Swift",
       "primaryLanguageColor": "#F05138",
       "licenseName": "Other",
@@ -10427,8 +10423,8 @@
       "repoName": "npm/cli",
       "description": "the package manager for JavaScript",
       "url": "https://github.com/npm/cli",
-      "forkCount": 4520,
-      "stargazerCount": 9956,
+      "forkCount": 4524,
+      "stargazerCount": 9959,
       "primaryLanguage": "JavaScript",
       "primaryLanguageColor": "#f1e05a",
       "licenseName": "Other",
@@ -10460,8 +10456,8 @@
       "repoName": "zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "url": "https://github.com/zed-industries/zed",
-      "forkCount": 9618,
-      "stargazerCount": 87257,
+      "forkCount": 9630,
+      "stargazerCount": 87314,
       "primaryLanguage": "Rust",
       "primaryLanguageColor": "#dea584",
       "licenseName": "Other",
@@ -10536,8 +10532,8 @@
       "repoName": "astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "url": "https://github.com/astral-sh/uv",
-      "forkCount": 3357,
-      "stargazerCount": 87658,
+      "forkCount": 3361,
+      "stargazerCount": 87684,
       "primaryLanguage": "Rust",
       "primaryLanguageColor": "#dea584",
       "licenseName": "Apache License 2.0",
@@ -10567,8 +10563,8 @@
       "repoName": "Arize-ai/openinference",
       "description": "OpenTelemetry Instrumentation for AI Observability",
       "url": "https://github.com/Arize-ai/openinference",
-      "forkCount": 274,
-      "stargazerCount": 1095,
+      "forkCount": 275,
+      "stargazerCount": 1103,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "Apache License 2.0",
@@ -10613,8 +10609,8 @@
       "repoName": "hesreallyhim/awesome-claude-code",
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "forkCount": 4391,
-      "stargazerCount": 50444,
+      "forkCount": 4396,
+      "stargazerCount": 50522,
       "primaryLanguage": "Python",
       "primaryLanguageColor": "#3572A5",
       "licenseName": "Other",
@@ -10658,12 +10654,8 @@
   ],
   "communityRolling": [
     {
-      "date": "2026-01-21",
-      "total": 36
-    },
-    {
       "date": "2026-01-22",
-      "total": 646
+      "total": 36
     },
     {
       "date": "2026-01-23",
@@ -11380,6 +11372,10 @@
     {
       "date": "2026-07-20",
       "total": 814
+    },
+    {
+      "date": "2026-07-21",
+      "total": 801
     }
   ],
   "excludedUsers": []
