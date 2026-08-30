@@ -47,10 +47,6 @@
       },
       "rollingActivity": [
         {
-          "date": "2026-03-02",
-          "total": 34
-        },
-        {
           "date": "2026-03-03",
           "total": 34
         },
@@ -344,7 +340,7 @@
     "successfulUsers": 1,
     "failedUsers": 0,
     "totalUsers": 1,
-    "analysisTimeframe": "2026-03-02 to 2026-08-29",
+    "analysisTimeframe": "2026-03-03 to 2026-08-30",
     "minForkCountFilter": "3"
   },
   "repoLeaderboard": [
@@ -378,10 +374,6 @@
     }
   ],
   "communityRolling": [
-    {
-      "date": "2026-03-02",
-      "total": 34
-    },
     {
       "date": "2026-03-03",
       "total": 34
