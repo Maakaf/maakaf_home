@@ -16,92 +16,33 @@
         "accountType": "User",
         "createdAt": "2024-09-25T14:26:25.000Z"
       },
-      "repos": [
-        {
-          "repoName": "Maakaf/maakaf_home",
-          "description": "Website for Ma'akaf - Israeli Open Source Community",
-          "url": "https://github.com/Maakaf/maakaf_home",
-          "primaryLanguage": "JavaScript",
-          "primaryLanguageColor": "#f1e05a",
-          "stargazerCount": 5,
-          "licenseName": "Apache License 2.0",
-          "licenseSpdx": "Apache-2.0",
-          "topics": [
-            "hacktoberfest"
-          ],
-          "commits": 0,
-          "pullRequests": 1,
-          "issues": 0,
-          "prReviews": 0,
-          "prComments": 0,
-          "issueComments": 0
-        }
-      ],
+      "repos": [],
       "summary": {
         "totalCommits": 0,
-        "totalPRs": 1,
+        "totalPRs": 0,
         "totalIssues": 0,
         "totalPRReviews": 0,
         "totalPRComments": 0,
         "totalIssueComments": 0
       },
-      "rollingActivity": [
-        {
-          "date": "2026-05-11",
-          "total": 0
-        }
-      ]
+      "rollingActivity": []
     }
   ],
   "globalSummary": {
     "totalCommits": 0,
-    "totalPRs": 1,
+    "totalPRs": 0,
     "totalIssues": 0,
     "totalPRReviews": 0,
     "totalPRComments": 0,
     "totalIssueComments": 0,
-    "totalRepos": 1,
+    "totalRepos": 0,
     "successfulUsers": 1,
     "failedUsers": 0,
     "totalUsers": 1,
-    "analysisTimeframe": "2026-05-11 to 2026-11-07",
+    "analysisTimeframe": "2026-05-12 to 2026-11-08",
     "minForkCountFilter": "3"
   },
-  "repoLeaderboard": [
-    {
-      "repoName": "Maakaf/maakaf_home",
-      "description": "Website for Ma'akaf - Israeli Open Source Community",
-      "url": "https://github.com/Maakaf/maakaf_home",
-      "forkCount": 33,
-      "stargazerCount": 5,
-      "primaryLanguage": "JavaScript",
-      "primaryLanguageColor": "#f1e05a",
-      "licenseName": "Apache License 2.0",
-      "licenseSpdx": "Apache-2.0",
-      "topics": [
-        "hacktoberfest"
-      ],
-      "commits": 0,
-      "pullRequests": 1,
-      "issues": 0,
-      "prReviews": 0,
-      "prComments": 0,
-      "issueComments": 0,
-      "contributors": 1,
-      "contributorList": [
-        {
-          "login": "ShacharES",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/182784923?u=de3bc3a419dd3bde27b58ff372991b9e9ba7ca9f&v=4"
-        }
-      ],
-      "totalActivity": 1
-    }
-  ],
-  "communityRolling": [
-    {
-      "date": "2026-05-11",
-      "total": 0
-    }
-  ],
+  "repoLeaderboard": [],
+  "communityRolling": [],
   "excludedUsers": []
 }
